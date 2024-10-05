@@ -8,5 +8,6 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class FeedbackList
     {
+        public string feedbackStatus { get; set; }
     }
 }
