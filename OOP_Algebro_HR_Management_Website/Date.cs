@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Algebro_HR_Management_Website
 {
-    internal class Date
+    internal class Date : Applicant
     {
         public int Day { get; set; }
         public int Month { get; set; }
