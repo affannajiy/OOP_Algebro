@@ -12,12 +12,12 @@ namespace OOP_Algebro_HR_Management_Website
         public Date leaveDate { get; set; }
         public int daysTaken { get; set; }
 
-        public void AddLeave()
+        public void addLeave()
         {
 
         }
 
-        public void UpdateStatus()
+        public void updateStatus()
         {
 
         }
