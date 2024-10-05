@@ -9,5 +9,10 @@ namespace OOP_Algebro_HR_Management_Website
     internal class FeedbackList
     {
         public string feedbackStatus { get; set; }
+        public Feedback feedback { get; set; }
+        public void UpdateStatus()
+        {
+          Console.WriteLine("The feedback status: + feedback);
+        }
     }
 }
