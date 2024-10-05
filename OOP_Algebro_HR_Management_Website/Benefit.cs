@@ -8,7 +8,7 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class Benefit
     {
-        public double paidLeaves { get; set; }
+        public double paidLeave { get; set; }
         public double bonus { get; set; }
     }
 }
