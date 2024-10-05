@@ -8,31 +8,41 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class ApplicantList
     {
+        public string statusRecruitment;
+        
         private List<Applicant> applicants;
 
         public ApplicantList() 
         {
             applicants = new List<Applicant>();
         }
-        public void AddApplicant(Applicant applicant)
+        public ApplicantList(int num) 
+        {
+            applicants = new List<Applicant>(num);
+        }
+        public void Init(int num)
+        {
+            applicants = new List<Applicant>(num);
+        }
+        public void Add(Applicant applicant)
         {
             applicants.Add(applicant);
         }
-        public void RemoveApplicant(Applicant applicant)
+        public void Remove(Applicant applicant)
         {
             applicants.Remove(applicant);
         }
         public void Display()
         {
-            foreach (Applicant applicant in applicants)
+            for (int i = 0; i < applicants.Count; i++)
             {
-                Console.WriteLine(applicant.AppName);
+                Console.WriteLine(applicants[i].AppName);
             }
         }
         public void UpdateStatus()
         {
-            string status;
-            int appStatus = Convert.ToInt32(Console.ReadLine());
+            public string status;
+            private int appStatus = Convert.ToInt32(Console.ReadLine());
             if (appStatus == 0)
             {
                 status = "Accepted";
