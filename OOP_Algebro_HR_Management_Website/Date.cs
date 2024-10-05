@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace OOP_Algebro_HR_Management_Website
 {
-    internal class Date : Applicant
+    internal class Date
     {
         public int Day { get; set; }
         public int Month { get; set; }
         public int Year { get; set; }
-        public Date(string day, string month, string year)
+        public Date(int day, int month, int year)
         {
-            this.day = Day;
-            this.month = Month;
-            this.year = Year;
+            this.Day = day;
+            this.Month = month;
+            this.Year = year;
         }
     }
 }
