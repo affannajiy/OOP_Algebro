@@ -8,20 +8,19 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class Employee
     {
-        public string employeeName { get; set; }
-        public int employeeID { get; set; }
-        public string employeePosition { get; set; }
-        public int employeeContactNum { get; set; }
-        public string employeeStatus { get; set; }
+        public string EmpName { get; set; }
+        public int EmpID { get; set; }
+        public string EmpPosition { get; set; }
+        public int EmpContactNum { get; set; }
+        public string EmpStatus { get; set; }
 
-        public void EmployeeInfo
-            (string employeeName, int employeeID, string employeePosition, int employeeContactNum, string employeeStatus)
+        public void EmployeeInfo(string empName, int empID, string empPosition, int empContactNum, string status)
         {
-            //Console.WriteLine("Employee Name: " + employeeName);
-            //Console.WriteLine("Employee ID: " + employeeID);
-            //Console.WriteLine("Employee Position: " + employeePosition);
-            //Console.WriteLine("Employee Contact Number: " + employeeContactNum);
-            //Console.WriteLine("Employee Status: " + employeeStatus);
+            EmpName = empName;
+            EmpID = empID;
+            EmpPosition = empPosition;
+            EmpContactNum = empContactNum;
+            EmpStatus = status;
         }
     }
 }
