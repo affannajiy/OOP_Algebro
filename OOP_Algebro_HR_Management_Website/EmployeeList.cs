@@ -8,15 +8,16 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class EmployeeList
     {
-        public List<Employee> employeeList = new List<Employee>();
+        private List<Employee> employees;
 
         public EmployeeList()
         {
-
+          employees = new List<Employee>();
         }
 
-        public void AddEmployee()
+        public void AddEmployee(Employee employee)
         {
+            employees.Add(employee);
             /*
             Console.WriteLine("Add Employee");
             Console.WriteLine("Enter Employee Name: ");
@@ -32,14 +33,17 @@ namespace OOP_Algebro_HR_Management_Website
             */
         }
 
-        public void RemoveEmployee()
+        public void RemoveEmployee(Employee employee)
         {
-
+          employees.Remove(employee);
         }
 
         public void DisplayEmployeeList()
         {
-
+          foreach (Employee employee in employees)
+          {
+              Console.WriteLine(employee.EmpName);
+          }
         }
     }
 }
