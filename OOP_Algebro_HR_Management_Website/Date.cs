@@ -8,8 +8,8 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class Date
     {
-        public int day;
-        public int month;
-        public int year;
+        public int Day { get; set; }
+        public int Month { get; set; }
+        public int Year { get; set; }
     }
 }

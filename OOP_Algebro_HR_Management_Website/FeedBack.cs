@@ -8,5 +8,7 @@ namespace OOP_Algebro_HR_Management_Website
 {
     internal class FeedBack
     {
+        public int ID { get; set; }
+        public string feeback { get; set; }
     }
 }
