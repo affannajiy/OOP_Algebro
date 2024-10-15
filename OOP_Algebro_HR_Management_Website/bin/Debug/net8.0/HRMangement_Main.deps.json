@@ -22,22 +22,34 @@
       },
       "ApplicantManagement/1.0.0": {
         "runtime": {
-          "ApplicantManagement.dll": {}
+          "ApplicantManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BenefitManagement/1.0.0": {
         "runtime": {
-          "BenefitManagement.dll": {}
+          "BenefitManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "EmployeeManagement/1.0.0": {
         "runtime": {
-          "EmployeeManagement.dll": {}
+          "EmployeeManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FeebackManagement/1.0.0": {
         "runtime": {
-          "FeebackManagement.dll": {}
+          "FeebackManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Leave_TimeTrackingManagement/1.0.0": {
@@ -45,17 +57,26 @@
           "EmployeeManagement": "1.0.0"
         },
         "runtime": {
-          "Leave_TimeTrackingManagement.dll": {}
+          "Leave_TimeTrackingManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "PerformanceEvaluationManagement/1.0.0": {
         "runtime": {
-          "PerformanceEvaluationManagement.dll": {}
+          "PerformanceEvaluationManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "WorkProjectManagement/1.0.0": {
         "runtime": {
-          "WorkProjectManagement.dll": {}
+          "WorkProjectManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

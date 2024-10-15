@@ -22,9 +22,6 @@ namespace ApplicantManagement
             IvDate = ivDate;
         }
 
-        // Default constructor
-        public Applicant() { }
-
         // Display
         public void DisplayApplicantInfo()
         {
