@@ -3,18 +3,39 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WorkProjectManagement;
 
 namespace PerformanceEvaluationManagement
 {
-    public class Performance
+    public class Performance : Work
     {
-        public int workCompleted { get; set; }
+        // Property to track whether work is completed
+        public string WorkCompleted { get; set; }
 
-        public void totalWorkCompleted(int workcompleted)
+        // Constructor to initialize the performance with progress and completed work status
+        public Performance(string title, double progress, string completed)
+            : base(progress, title)
         {
-            double totalWorkCompleted = 0;
-            totalWorkCompleted += workcompleted;
-            Console.WriteLine("Total Work Completed: " + totalWorkCompleted);
+            WorkCompleted = completed;
+        }
+
+        // Method to track total work completed
+        public int TotalWorkCompleted { get; private set; } = 0;
+
+        // Method to update total work completed if progress is 100%
+        public void UpdateWorkCompletion()
+        {
+            if (WorkProgress == 100)
+            {
+                TotalWorkCompleted++;
+                WorkCompleted = "Yes"; // Mark the work as completed
+                Console.WriteLine($"Work '{ProjectTitle}' is completed. Total completed work count: {TotalWorkCompleted}");
+            }
+            else
+            {
+                WorkCompleted = "No"; // Work is not yet completed
+                Console.WriteLine($"Work '{ProjectTitle}' is still in progress with {WorkProgress}% completed.");
+            }
         }
     }
 }

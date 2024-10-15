@@ -46,6 +46,15 @@ namespace HRManagement_Main
             feedbackList.DisplayAllFeedbacks();
             //RemoveFeedBack()
 
+            Performance work1 = new Performance("Website Development", 100, "No");
+            work1.UpdateWorkCompletion();
+
+            Ethics employeeEthics = new Ethics(1002, 50);
+            employeeEthics.DeductMerit("Late to work");
+            employeeEthics.DeductMerit("Insubordination");
+            employeeEthics.DisplayMerit();
+            //DisplayViolations
+
             KPI kPI = new KPI();
 
             //Example for Leave Request

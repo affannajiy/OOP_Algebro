@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeManagement\EmployeeManagement.csproj" />
+    <ProjectReference Include="..\WorkProjectManagement\WorkProjectManagement.csproj" />
+  </ItemGroup>
+
 </Project>

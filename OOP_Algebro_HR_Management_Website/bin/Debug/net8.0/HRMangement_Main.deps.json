@@ -49,6 +49,10 @@
         }
       },
       "PerformanceEvaluationManagement/1.0.0": {
+        "dependencies": {
+          "EmployeeManagement": "1.0.0",
+          "WorkProjectManagement": "1.0.0"
+        },
         "runtime": {
           "PerformanceEvaluationManagement.dll": {}
         }

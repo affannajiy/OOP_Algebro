@@ -448,7 +448,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
+                "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
+              },
+              "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
+                "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
