@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\leave_timetrackingmanagement\\timetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\leave_timetrackingmanagement\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TimeTracking.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:36:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LeaveRequest.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
               "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
@@ -48,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeList.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeList.cs",
               "RelativeDocumentMoniker": "..\\EmployeeManagement\\EmployeeList.cs",
@@ -61,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\Employee.cs",
               "RelativeDocumentMoniker": "..\\EmployeeManagement\\Employee.cs",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
