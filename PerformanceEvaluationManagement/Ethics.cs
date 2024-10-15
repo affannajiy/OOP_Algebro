@@ -10,9 +10,11 @@ namespace PerformanceEvaluationManagement
     {
         public int merit { get; set; }
 
-        public void meritList()
-        {
-            //Console.WriteLine("Merit: " + merit);
-        }
+       public void meritList(int merit)
+      {
+        double totalMerit = 0;
+        totalMerit += merit;
+        Console.WriteLine("Merit: " + totalMerit);
+      }
     }
 }
