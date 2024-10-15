@@ -14,6 +14,6 @@ C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\o
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\OOP_Algebro_HR_Management_Website.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\ref\OOP_Algebro_HR_Management_Website.dll
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\OOP_Algebro_HR_Management_Website.csproj.AssemblyReference.cache
-C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\StringLibrary.dll
-C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\ApplicantManagement.dll
+C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\ApplicantManagement.pdb
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\OOP_Alge.2124762C.Up2Date
