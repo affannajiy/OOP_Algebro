@@ -22,3 +22,15 @@ C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluatio
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\refint\PerformanceEvaluationManagement.dll
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.pdb
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\ref\PerformanceEvaluationManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\PerformanceEvaluationManagement.deps.json
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\PerformanceEvaluationManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\PerformanceEvaluationManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.AssemblyInfo.cs
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.sourcelink.json
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\refint\PerformanceEvaluationManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\ref\PerformanceEvaluationManagement.dll

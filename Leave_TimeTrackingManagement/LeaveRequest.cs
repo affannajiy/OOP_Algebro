@@ -9,18 +9,31 @@ namespace LeaveTimeTrackingManagement
 {
     public class LeaveRequest : Employee
     {
-        public string approvalStatus { get; set; }
-        public DateTime leaveDate { get; set; }
-        public int daysTaken { get; set; }
+        // Properties
+        public string Reason { get; set; }
+        public string ApprovalStatus { get; set; }
+        public DateTime LeaveDate { get; set; }
+        public int DaysTaken { get; set; }
 
-        public void addLeave()
+        // Constructor
+        public LeaveRequest(string empName, int empID, string reason, string approvalStatus, DateTime leaveDate, int daysTaken)
+            : base(empName, empID, string.Empty, 0, string.Empty) // Calling base constructor
         {
-
+            Reason = reason;
+            ApprovalStatus = approvalStatus;
+            LeaveDate = leaveDate;  // Set to the specific date provided
+            DaysTaken = daysTaken;
         }
-
-        public void updateStatus()
+        // Method to display leave request details
+        public void DisplayLeaveRequestInfo()
         {
-
+            Console.WriteLine($"Employee Name: {EmpName}");
+            Console.WriteLine($"Employee ID: {EmpID}");
+            Console.WriteLine($"Leave Reason: {Reason}");
+            Console.WriteLine($"Approval Status: {ApprovalStatus}");
+            Console.WriteLine($"Leave Date: {LeaveDate.ToShortDateString()}");
+            Console.WriteLine($"Days Taken: {DaysTaken}");
+            Console.WriteLine("-------------------------------");
         }
     }
 }

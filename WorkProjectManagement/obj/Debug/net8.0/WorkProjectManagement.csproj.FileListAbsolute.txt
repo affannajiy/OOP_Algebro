@@ -22,3 +22,15 @@ C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\WorkProjectManagemen
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\refint\WorkProjectManagement.dll
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.pdb
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\ref\WorkProjectManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\bin\Debug\net8.0\WorkProjectManagement.deps.json
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\bin\Debug\net8.0\WorkProjectManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\bin\Debug\net8.0\WorkProjectManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.AssemblyInfo.cs
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.sourcelink.json
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\refint\WorkProjectManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\WorkProjectManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\WorkProjectManagement\obj\Debug\net8.0\ref\WorkProjectManagement.dll

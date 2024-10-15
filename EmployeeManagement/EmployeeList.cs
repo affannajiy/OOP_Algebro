@@ -8,42 +8,59 @@ namespace EmployeeManagement
 {
     public class EmployeeList
     {
-        private List<Employee> employees;
+        public List<Employee> Employees { get; set; }
 
+        // Constructor to initialize the employee list
         public EmployeeList()
         {
-          employees = new List<Employee>();
+            Employees = new List<Employee>();
         }
 
+        // Method to add an employee to the list
         public void AddEmployee(Employee employee)
         {
-            employees.Add(employee);
-            /*
-            Console.WriteLine("Add Employee");
-            Console.WriteLine("Enter Employee Name: ");
-            string employeeName = Console.ReadLine();
-            Console.WriteLine("Enter Employee ID: ");
-            int employeeID = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter Employee Position: ");
-            string employeePosition = Console.ReadLine();
-            Console.WriteLine("Enter Employee Contact Number: ");
-            int employeeContactNum = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter Employee Status: ");
-            string employeeStatus = Console.ReadLine()
-            */
+            Employees.Add(employee);
+            Console.WriteLine($"Employee {employee.EmpName} added successfully.");
         }
 
-        public void RemoveEmployee(Employee employee)
+        // Method to remove an employee by employee ID
+        public void RemoveEmployee(int empID)
         {
-          employees.Remove(employee);
+            Employee employee = Employees.Find(e => e.EmpID == empID);
+            if (employee != null)
+            {
+                Employees.Remove(employee);
+                Console.WriteLine($"Employee {employee.EmpName} removed successfully.");
+            }
+            else
+            {
+                Console.WriteLine($"Employee with ID {empID} not found.");
+            }
         }
 
-        public void DisplayEmployeeList()
+        // Method to display all employees in the list
+        public void DisplayAllEmployees()
         {
-          foreach (Employee employee in employees)
-          {
-              Console.WriteLine(employee.EmpName);
-          }
+            Console.WriteLine("Employee List:");
+            Console.WriteLine("-------------------------------");
+            foreach (Employee employee in Employees)
+            {
+                employee.DisplayEmployeeInfo();
+            }
+        }
+
+        // Method to find and display employee details by ID
+        public void FindEmployeeByID(int empID)
+        {
+            Employee employee = Employees.Find(e => e.EmpID == empID);
+            if (employee != null)
+            {
+                employee.DisplayEmployeeInfo();
+            }
+            else
+            {
+                Console.WriteLine($"Employee with ID {empID} not found.");
+            }
         }
     }
 }

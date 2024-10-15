@@ -30,3 +30,19 @@ C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\Leave_TimeTrackingMa
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\refint\Leave_TimeTrackingManagement.dll
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.pdb
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\ref\Leave_TimeTrackingManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\bin\Debug\net8.0\Leave_TimeTrackingManagement.deps.json
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\bin\Debug\net8.0\Leave_TimeTrackingManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\bin\Debug\net8.0\Leave_TimeTrackingManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.AssemblyInfo.cs
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.sourcelink.json
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_Ti.78514202.Up2Date
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\refint\Leave_TimeTrackingManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\Leave_TimeTrackingManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Documents\GitHub\OOP_Algebro\Leave_TimeTrackingManagement\obj\Debug\net8.0\ref\Leave_TimeTrackingManagement.dll

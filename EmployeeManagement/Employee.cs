@@ -14,13 +14,22 @@ namespace EmployeeManagement
         public int EmpContactNum { get; set; }
         public string EmpStatus { get; set; }
 
-        public void EmployeeInfo(string empName, int empID, string empPosition, int empContactNum, string status)
+        public Employee(string empName, int empID, string empPosition, int empContactNum, string status)
         {
             EmpName = empName;
             EmpID = empID;
             EmpPosition = empPosition;
             EmpContactNum = empContactNum;
             EmpStatus = status;
+        }
+        public void DisplayEmployeeInfo()
+        {
+            Console.WriteLine($"Employee ID: {EmpID}");
+            Console.WriteLine($"Employee Name: {EmpName}");
+            Console.WriteLine($"Position: {EmpPosition}");
+            Console.WriteLine($"Contact Number: {EmpContactNum}");
+            Console.WriteLine($"Status: {EmpStatus}");
+            Console.WriteLine("-------------------------------");
         }
     }
 }

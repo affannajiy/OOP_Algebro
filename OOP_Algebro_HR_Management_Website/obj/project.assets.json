@@ -126,23 +126,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
       "projectName": "HRMangement_Main",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\obj\\",
+      "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -158,26 +158,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
             },
-            "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
-              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj"
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj"
             }
           }
         }
@@ -212,7 +212,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
