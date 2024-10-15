@@ -56,6 +56,7 @@ namespace LeaveTimeTrackingManagement
                     timeTracking.EndTime.ToString("yyyy-MM-dd HH:mm"),
                     timeTracking.GetTotalHours());
             }
+            Console.WriteLine("-----------------------------------------------------------------------------------------------------------");
         }
 
         // Method to find and display TimeTracking entry by employee ID

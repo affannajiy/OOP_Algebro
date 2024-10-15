@@ -44,6 +44,7 @@ namespace HRManagement_Main
             feedbackList.AddFeedback(feedback1);
             feedbackList.AddFeedback(feedback2);
             feedbackList.DisplayAllFeedbacks();
+            //RemoveFeedBack()
 
             KPI kPI = new KPI();
 
@@ -51,7 +52,7 @@ namespace HRManagement_Main
             LeaveRequestList leaveRequestList = new LeaveRequestList();
             DateTime leaveDate1 = new DateTime(2024, 10, 20);
             DateTime leaveDate2 = new DateTime(2024, 11, 5);
-            LeaveRequest leaveRequest1 = new LeaveRequest("John Doe", 1001, "Medical Leave", "Pending", leaveDate1, 5);
+            LeaveRequest leaveRequest1 = new LeaveRequest("John Doe", 1001, "Medical Leave", "Approved", leaveDate1, 5);
             LeaveRequest leaveRequest2 = new LeaveRequest("Jane Smith", 1002, "Family Emergency", "Pending", leaveDate2, 3);
             leaveRequestList.AddLeaveRequest(leaveRequest1);
             leaveRequestList.AddLeaveRequest(leaveRequest2);
@@ -73,16 +74,12 @@ namespace HRManagement_Main
 
             // Example for Work list
             WorkProjectList workProjectList = new WorkProjectList();
-            Work project1 = new Work(50.0, 9, 17, "In Progress");
-            Work project2 = new Work(100.0, 8, 16, "Completed");
-            Work project3 = new Work(0.0, 10, 18, "Not Started");
-            Work project4 = new Work(90.0, 11, 19, "Almost Done");
-            Work project5 = new Work(75.0, 9, 20, "In Progress");
+            Work project1 = new Work(50.0, "Stellar Nexus");
+            Work project2 = new Work(100.0, "Quantum Horizon");
+            Work project3 = new Work(0.0, "EchoForge");
             workProjectList.AddWorkProject(project1);
             workProjectList.AddWorkProject(project2);
             workProjectList.AddWorkProject(project3);
-            workProjectList.AddWorkProject(project4);
-            workProjectList.AddWorkProject(project5);
             workProjectList.DisplayAllWorkProjects();
         }
     }

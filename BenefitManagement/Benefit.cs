@@ -11,17 +11,4 @@ namespace BenefitsManagement
         public double PaidLeave { get; set; }
         public double Bonus { get; set; }
     }
-
-    public Benefit(double paidLeave, double bonus)
-    {
-        PaidLeave = paidLeave;
-        Bonus = bonus; 
-    }
-
-    public void DisplayBenefitInfo()
-    {
-        Console.WriteLine($"PaidLeaave Amount: {PaidLeave}");
-        Console.WriteLine($"Bonus: {Bonus}";
-        Console.WriteLine("-------------------------------");
-    }
 }

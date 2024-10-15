@@ -27,7 +27,7 @@ namespace WorkProjectManagement
         public void DisplayAllWorkProjects()
         {
             Console.WriteLine("Work Project List:");
-            Console.WriteLine("-------------------");
+            Console.WriteLine("-------------------------------");
             foreach (Work work in WorkProjects)
             {
                 work.DisplayWorkDetails();

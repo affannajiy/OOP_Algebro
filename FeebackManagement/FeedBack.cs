@@ -20,8 +20,9 @@ namespace FeedbackManagement
 
         public void DisplayFeedback()
         {
-            Console.WriteLine("$ID: " + ID);
-            Console.WriteLine("$Feedback: " + FeedbackText);
+            Console.WriteLine("ID: " + ID);
+            Console.WriteLine("Feedback: " + FeedbackText);
+            Console.WriteLine("-------------------------------");
         }
     }
 }

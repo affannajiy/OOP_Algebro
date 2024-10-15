@@ -7,10 +7,7 @@ using System.Threading.Tasks;
 namespace FeedbackManagement
 {
     public class FeedbackList
-    {
-        public string FeedbackStatus { get; set; }
-        public Feedback feedback { get; set; }
-        
+    {   
         public List<Feedback> feedbackList {get; set;}
 
         public FeedbackList()
@@ -55,13 +52,6 @@ namespace FeedbackManagement
             {
                 feedback.DisplayFeedback();
             }
-        }
-
-        //Update Feedback Status
-        public void UpdateStatus(string newStatus)
-        {
-            FeedbackStatus = newStatus;
-            Console.WriteLine($"Feedback status updated to: {FeedbackStatus}");
         }
     }
 }

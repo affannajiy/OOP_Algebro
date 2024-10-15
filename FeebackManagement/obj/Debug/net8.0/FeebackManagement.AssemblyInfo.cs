@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FeebackManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d86347eac4a4d27ad8814c57971b9a4dffc64cb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e81ed267bc2e6411540c1eda46197150233f17a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FeebackManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FeebackManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
