@@ -3,20 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D12CED88-F106-4E61-9889-6A60283F5531}|..\\ApplicantManagement\\ApplicantManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\applicantmanagement\\applicantlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D12CED88-F106-4E61-9889-6A60283F5531}|..\\ApplicantManagement\\ApplicantManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\applicantmanagement\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C43AF3F-6B05-4C63-8F7F-085FC5ED2AB1}|..\\EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\employeemanagement\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12CED88-F106-4E61-9889-6A60283F5531}|..\\ApplicantManagement\\ApplicantManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\applicantmanagement\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D12CED88-F106-4E61-9889-6A60283F5531}|..\\ApplicantManagement\\ApplicantManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\applicantmanagement\\applicantlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,65 +32,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeList.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeList.cs",
-              "RelativeDocumentMoniker": "..\\EmployeeManagement\\EmployeeList.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeList.cs",
-              "RelativeToolTip": "..\\EmployeeManagement\\EmployeeList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T13:08:23.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Date.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\Date.cs",
-              "RelativeDocumentMoniker": "..\\ApplicantManagement\\Date.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\Date.cs",
-              "RelativeToolTip": "..\\ApplicantManagement\\Date.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:43:19.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicantList.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantList.cs",
-              "RelativeDocumentMoniker": "..\\ApplicantManagement\\ApplicantList.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantList.cs",
-              "RelativeToolTip": "..\\ApplicantManagement\\ApplicantList.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswCoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:43:15.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Applicant.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\Applicant.cs",
               "RelativeDocumentMoniker": "..\\ApplicantManagement\\Applicant.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\Applicant.cs",
               "RelativeToolTip": "..\\ApplicantManagement\\Applicant.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T12:42:33.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ApplicantList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantList.cs",
+              "RelativeDocumentMoniker": "..\\ApplicantManagement\\ApplicantList.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantList.cs",
+              "RelativeToolTip": "..\\ApplicantManagement\\ApplicantList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:43:15.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "EditorCaption": ""

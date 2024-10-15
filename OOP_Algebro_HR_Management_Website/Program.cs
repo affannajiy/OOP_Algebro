@@ -15,9 +15,9 @@ namespace HRManagement_Main
         {
             //Example for Applicant Info
             ApplicantList applicantList = new ApplicantList();
-            Applicant applicant1 = new Applicant("Adam Marwan", 0123456789, "Software Engineer", new DateTime(2024, 1, 31, 14, 30, 0));
-            Applicant applicant2 = new Applicant("Jamal Abdillah", 0136969607, "Cleaner", new DateTime(2024, 2, 20, 10, 30, 0));
-            Applicant applicant3 = new Applicant("Siti Nabila", 0176678956, "Accountant", new DateTime(2024, 2, 21, 11, 35, 0));
+            Applicant applicant1 = new Applicant("Adam Marwan", "0123456789", "Software Engineer", new DateTime(2024, 1, 31, 14, 30, 0));
+            Applicant applicant2 = new Applicant("Jamal Abdillah", "0136969607", "Cleaner", new DateTime(2024, 2, 20, 10, 30, 0));
+            Applicant applicant3 = new Applicant("Siti Nabila", "0176678956", "Accountant", new DateTime(2024, 2, 21, 11, 35, 0));
             applicantList.Add(applicant1);
             applicantList.Add(applicant2);
             applicantList.Add(applicant3);

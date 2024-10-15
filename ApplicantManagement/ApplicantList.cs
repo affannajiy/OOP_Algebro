@@ -11,7 +11,6 @@ namespace ApplicantManagement
     public class ApplicantList
     {
         public string StatusRecruitment { get; set; }
-
         private List<Applicant> applicants { get; set; }
 
         //Constructor
