@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ApplicantManagement\ApplicantManagement.csproj" />
     <ProjectReference Include="..\EmployeeManagement\EmployeeManagement.csproj" />
+    <ProjectReference Include="..\FeebackManagement\FeebackManagement.csproj" />
     <ProjectReference Include="..\Leave_TimeTrackingManagement\Leave_TimeTrackingManagement.csproj" />
     <ProjectReference Include="..\PerformanceEvaluationManagement\PerformanceEvaluationManagement.csproj" />
   </ItemGroup>

@@ -23,3 +23,5 @@ C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\o
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\HRMangement_Main.pdb
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\HRMangement_Main.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\ref\HRMangement_Main.dll
+C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\FeebackManagement.dll
+C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\FeebackManagement.pdb

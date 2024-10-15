@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_Algebro_HR_Management_Website
+namespace BenefitsManagement
 {
-    internal class Benefit
+    public class Benefit
     {
         public double paidLeave { get; set; }
         public double bonus { get; set; }

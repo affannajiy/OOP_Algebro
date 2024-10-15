@@ -7,7 +7,10 @@
       "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB1B4E6E-8D87-4BFD-B81E-6D6F5B203CE8}|..\\WorkProjectManagement\\WorkProjectManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\workprojectmanagement\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A851563D-AAC2-4A16-AE53-BCD35F261CC7}|..\\FeebackManagement\\FeebackManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\feebackmanagement\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A851563D-AAC2-4A16-AE53-BCD35F261CC7}|..\\FeebackManagement\\FeebackManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\feebackmanagement\\feedbacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,15 +32,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Work.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\Work.cs",
-              "RelativeDocumentMoniker": "..\\WorkProjectManagement\\Work.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\Work.cs",
-              "RelativeToolTip": "..\\WorkProjectManagement\\Work.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FeedbackList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeedbackList.cs",
+              "RelativeDocumentMoniker": "..\\FeebackManagement\\FeedbackList.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeedbackList.cs",
+              "RelativeToolTip": "..\\FeebackManagement\\FeedbackList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:35:45.53Z",
+              "WhenOpened": "2024-10-15T04:44:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeedBack.cs",
+              "RelativeDocumentMoniker": "..\\FeebackManagement\\FeedBack.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeedBack.cs",
+              "RelativeToolTip": "..\\FeebackManagement\\FeedBack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:44:31.598Z",
               "EditorCaption": ""
             },
             {
@@ -48,7 +64,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "EditorCaption": ""

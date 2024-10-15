@@ -10,6 +10,7 @@
         "dependencies": {
           "ApplicantManagement": "1.0.0",
           "EmployeeManagement": "1.0.0",
+          "FeebackManagement": "1.0.0",
           "Leave_TimeTrackingManagement": "1.0.0",
           "PerformanceEvaluationManagement": "1.0.0"
         },
@@ -28,6 +29,14 @@
       "EmployeeManagement/1.0.0": {
         "runtime": {
           "EmployeeManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FeebackManagement/1.0.0": {
+        "runtime": {
+          "FeebackManagement.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -66,6 +75,11 @@
       "sha512": ""
     },
     "EmployeeManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeebackManagement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -22,6 +22,16 @@
           "bin/placeholder/EmployeeManagement.dll": {}
         }
       },
+      "FeebackManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FeebackManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FeebackManagement.dll": {}
+        }
+      },
       "Leave_TimeTrackingManagement/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -58,6 +68,11 @@
       "path": "../EmployeeManagement/EmployeeManagement.csproj",
       "msbuildProject": "../EmployeeManagement/EmployeeManagement.csproj"
     },
+    "FeebackManagement/1.0.0": {
+      "type": "project",
+      "path": "../FeebackManagement/FeebackManagement.csproj",
+      "msbuildProject": "../FeebackManagement/FeebackManagement.csproj"
+    },
     "Leave_TimeTrackingManagement/1.0.0": {
       "type": "project",
       "path": "../Leave_TimeTrackingManagement/Leave_TimeTrackingManagement.csproj",
@@ -73,6 +88,7 @@
     "net8.0": [
       "ApplicantManagement >= 1.0.0",
       "EmployeeManagement >= 1.0.0",
+      "FeebackManagement >= 1.0.0",
       "Leave_TimeTrackingManagement >= 1.0.0",
       "PerformanceEvaluationManagement >= 1.0.0"
     ]
@@ -115,6 +131,9 @@
             },
             "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
               "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
+            },
+            "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj"
             },
             "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
               "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj"
