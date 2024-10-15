@@ -3,15 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\documents\\github\\oop_algebro\\leave_timetrackingmanagement\\timetrackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\documents\\github\\oop_algebro\\leave_timetrackingmanagement\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\documents\\github\\oop_algebro\\leave_timetrackingmanagement\\leaverequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\documents\\github\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,59 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBkAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TimeTrackingList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTrackingList.cs",
-              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\TimeTrackingList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTrackingList.cs*",
-              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\TimeTrackingList.cs*",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAACNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:30:49.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LeaveRequestList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequestList.cs",
-              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\LeaveRequestList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequestList.cs",
-              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\LeaveRequestList.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAlwC4AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:29:24.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Documents\\GitHub\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:29:05.167Z",
               "EditorCaption": ""
             }
           ]
