@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_Algebro_HR_Management_Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecfd2afec6d7bf98faf166ccc2746889ca580422")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53328509da553ad36d3d8b28247295bf5dd00b81")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_Algebro_HR_Management_Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_Algebro_HR_Management_Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

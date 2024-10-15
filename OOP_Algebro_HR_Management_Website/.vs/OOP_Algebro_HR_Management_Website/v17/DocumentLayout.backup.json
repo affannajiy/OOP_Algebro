@@ -3,14 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\leave_timetrackingmanagement\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C43AF3F-6B05-4C63-8F7F-085FC5ED2AB1}|..\\EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\employeemanagement\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\leave_timetrackingmanagement\\timetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C43AF3F-6B05-4C63-8F7F-085FC5ED2AB1}|..\\EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\employeemanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\leave_timetrackingmanagement\\timetrackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,32 +26,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeList.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeList.cs",
-              "RelativeDocumentMoniker": "..\\EmployeeManagement\\EmployeeList.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeList.cs",
-              "RelativeToolTip": "..\\EmployeeManagement\\EmployeeList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:53:55.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\EmployeeManagement\\Employee.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\Employee.cs",
-              "RelativeToolTip": "..\\EmployeeManagement\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T03:53:32.648Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
@@ -58,13 +35,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeTrackingList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTrackingList.cs",
+              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\TimeTrackingList.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTrackingList.cs",
+              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\TimeTrackingList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:59:06.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeTracking.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\TimeTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:59:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
+              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:59:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "EditorCaption": ""

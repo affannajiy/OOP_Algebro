@@ -21,6 +21,19 @@
         "runtime": {
           "bin/placeholder/EmployeeManagement.dll": {}
         }
+      },
+      "Leave_TimeTrackingManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EmployeeManagement": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Leave_TimeTrackingManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Leave_TimeTrackingManagement.dll": {}
+        }
       }
     }
   },
@@ -34,12 +47,18 @@
       "type": "project",
       "path": "../EmployeeManagement/EmployeeManagement.csproj",
       "msbuildProject": "../EmployeeManagement/EmployeeManagement.csproj"
+    },
+    "Leave_TimeTrackingManagement/1.0.0": {
+      "type": "project",
+      "path": "../Leave_TimeTrackingManagement/Leave_TimeTrackingManagement.csproj",
+      "msbuildProject": "../Leave_TimeTrackingManagement/Leave_TimeTrackingManagement.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "ApplicantManagement >= 1.0.0",
-      "EmployeeManagement >= 1.0.0"
+      "EmployeeManagement >= 1.0.0",
+      "Leave_TimeTrackingManagement >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -80,6 +99,9 @@
             },
             "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
               "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
+            },
+            "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj"
             }
           }
         }

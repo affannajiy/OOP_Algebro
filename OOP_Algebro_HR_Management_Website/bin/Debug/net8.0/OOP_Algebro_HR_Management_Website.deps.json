@@ -9,7 +9,8 @@
       "OOP_Algebro_HR_Management_Website/1.0.0": {
         "dependencies": {
           "ApplicantManagement": "1.0.0",
-          "EmployeeManagement": "1.0.0"
+          "EmployeeManagement": "1.0.0",
+          "Leave_TimeTrackingManagement": "1.0.0"
         },
         "runtime": {
           "OOP_Algebro_HR_Management_Website.dll": {}
@@ -30,6 +31,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Leave_TimeTrackingManagement/1.0.0": {
+        "dependencies": {
+          "EmployeeManagement": "1.0.0"
+        },
+        "runtime": {
+          "Leave_TimeTrackingManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -45,6 +57,11 @@
       "sha512": ""
     },
     "EmployeeManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Leave_TimeTrackingManagement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

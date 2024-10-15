@@ -19,3 +19,5 @@ C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\b
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\obj\Debug\net8.0\OOP_Alge.2124762C.Up2Date
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\EmployeeManagement.dll
 C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\Leave_TimeTrackingManagement.dll
+C:\Users\user\OneDrive\Documents\OOP_Algebro\OOP_Algebro_HR_Management_Website\bin\Debug\net8.0\Leave_TimeTrackingManagement.pdb

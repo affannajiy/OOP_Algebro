@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ApplicantManagement;
 using EmployeeManagement;
+using LeaveTimeTrackingManagement;
 
 namespace OOP_Algebro_HR_Management_Website
 {
