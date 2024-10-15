@@ -8,11 +8,13 @@ namespace PerformanceEvaluationManagement
 {
     public class Ethics
     {
-        public int merit { get; set; }
+        public int Merit { get; set; }
 
-        public void meritList()
-        {
-            //Console.WriteLine("Merit: " + merit);
-        }
+       public void meritList(int merit)
+      {
+        double totalMerit = 0;
+        totalMerit += merit;
+        Console.WriteLine("Merit: " + totalMerit);
+      }
     }
 }

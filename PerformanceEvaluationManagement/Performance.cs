@@ -10,9 +10,11 @@ namespace PerformanceEvaluationManagement
     {
         public int workCompleted { get; set; }
 
-        public void totalWorkCompleted()
+        public void totalWorkCompleted(int workcompleted)
         {
-            //Console.WriteLine("Total Work Completed: " + workCompleted);
+            double totalWorkCompleted = 0;
+            totalWorkCompleted += workcompleted;
+            Console.WriteLine("Total Work Completed: " + totalWorkCompleted);
         }
     }
 }

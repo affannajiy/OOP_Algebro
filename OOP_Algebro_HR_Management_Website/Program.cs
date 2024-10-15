@@ -13,13 +13,23 @@ namespace HRManagement_Main
     {
         static void Main(string[] args)
         {
+            //Example for Applicant Info
             ApplicantList applicantList = new ApplicantList();
+            Applicant applicant1 = new Applicant("Adam Marwan", "0123456789", "Software Engineer", new DateTime(2024, 1, 31, 14, 30, 0));
+            Applicant applicant2 = new Applicant("Jamal Abdillah", "0136969607", "Cleaner", new DateTime(2024, 2, 20, 10, 30, 0));
+            Applicant applicant3 = new Applicant("Siti Nabila", "0176678956", "Accountant", new DateTime(2024, 2, 21, 11, 35, 0));
+            applicantList.AddApplicant(applicant1);
+            applicantList.AddApplicant(applicant2);
+            applicantList.AddApplicant(applicant3);
+            applicantList.DisplayAllApplicants();
+            //RemoveApplicant()
+            //FindApplicantByName()
 
             //Example for Employee Info
             EmployeeList employeeList = new EmployeeList();
-            Employee emp1 = new Employee("John Doe", 1001, "Manager", 123456789, "Active");
-            Employee emp2 = new Employee("Jane Smith", 1002, "Developer", 987654321, "Active");
-            Employee emp3 = new Employee("Emily Davis", 1003, "Designer", 112233445, "On Leave");
+            Employee emp1 = new Employee("John Doe", 1001, "Manager", "0123556789", "Active");
+            Employee emp2 = new Employee("Jane Smith", 1002, "Developer", "0198764321", "Active");
+            Employee emp3 = new Employee("Emily Davis", 1003, "Designer", "0112233445", "On Leave");
             employeeList.AddEmployee(emp1);
             employeeList.AddEmployee(emp2);
             employeeList.AddEmployee(emp3);
@@ -27,7 +37,13 @@ namespace HRManagement_Main
             //RemoveEmployee()
             //FindEmployeeByID()
 
+            //Example for Feedback
             FeedbackList feedbackList = new FeedbackList();
+            Feedback feedback1 = new Feedback(1001, "Excellent, I love the company.");
+            Feedback feedback2 = new Feedback(1002, "The company is meh, I am okay.");
+            feedbackList.AddFeedback(feedback1);
+            feedbackList.AddFeedback(feedback2);
+            feedbackList.DisplayAllFeedbacks();
 
             KPI kPI = new KPI();
 
@@ -55,9 +71,19 @@ namespace HRManagement_Main
 
             BenefitList benefitList = new BenefitList();
 
+            // Example for Work list
             WorkProjectList workProjectList = new WorkProjectList();
-
-
+            Work project1 = new Work(50.0, 9, 17, "In Progress");
+            Work project2 = new Work(100.0, 8, 16, "Completed");
+            Work project3 = new Work(0.0, 10, 18, "Not Started");
+            Work project4 = new Work(90.0, 11, 19, "Almost Done");
+            Work project5 = new Work(75.0, 9, 20, "In Progress");
+            workProjectList.AddWorkProject(project1);
+            workProjectList.AddWorkProject(project2);
+            workProjectList.AddWorkProject(project3);
+            workProjectList.AddWorkProject(project4);
+            workProjectList.AddWorkProject(project5);
+            workProjectList.DisplayAllWorkProjects();
         }
     }
 }

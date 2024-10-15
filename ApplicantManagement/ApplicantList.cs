@@ -1,60 +1,92 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace ApplicantManagement
 {
     public class ApplicantList
     {
-        public string statusRecruitment;
-        
-        private List<Applicant> applicants;
+        public string StatusRecruitment { get; set; }
+        public List<Applicant> applicants {get; set;}
 
-        public ApplicantList() 
+        //Constructor
+        public ApplicantList()
         {
             applicants = new List<Applicant>();
         }
+
+        //Constructor with Size
         public ApplicantList(int num) 
         {
             applicants = new List<Applicant>(num);
         }
+
+        //Initialise with Size
         public void Init(int num)
         {
             applicants = new List<Applicant>(num);
         }
-        public void Add(Applicant applicant)
+
+        //Add
+        public void AddApplicant(Applicant applicant)
         {
             applicants.Add(applicant);
+            Console.WriteLine($"Applicant {applicant.AppName} added successfully.");
         }
-        public void Remove(Applicant applicant)
+
+        //Remove Applicant (Name)
+        public void RemoveApplicant(Applicant applicant)
         {
-            applicants.Remove(applicant);
-        }
-        public void Display()
-        {
-            for (int i = 0; i < applicants.Count; i++)
+            Applicant applicantToRemove = applicants.Find(a => a.AppName.Equals(applicant.AppName, StringComparison.OrdinalIgnoreCase));
+            if (applicantToRemove != null)
             {
-                Console.WriteLine(applicants[i].AppName);
-            }
-        }
-        public void UpdateStatus()
-        {
-            int appStatus = Convert.ToInt32(Console.ReadLine());
-            if (appStatus == 0)
-            {
-                statusRecruitment = "Accepted";
-            }
-            else if (appStatus == 1)
-            {
-                statusRecruitment = "Rejected";
+                applicants.Remove(applicantToRemove);
+                Console.WriteLine($"Applicant {applicantToRemove.AppName} removed successfully.");
             }
             else
             {
-                statusRecruitment = "Pending";
+                Console.WriteLine($"Applicant with name {applicant.AppName} not found.");
             }
         }
 
+        //Display
+        public void DisplayAllApplicants()
+        {
+            if (applicants.Count == 0)
+            {
+                Console.WriteLine("No applicants in the list.");
+                return;
+            }
+
+            Console.WriteLine("Applicant List:");
+            Console.WriteLine("-------------------------------");
+            foreach (Applicant applicant in applicants)
+            {
+                applicant.DisplayApplicantInfo();
+            }
+        }
+
+        //Update
+        public void UpdateStatus(int appStatus)
+        {
+            switch (appStatus)
+            {
+                case 0:
+                    StatusRecruitment = "Accepted";
+                    break;
+                case 1:
+                    StatusRecruitment = "Rejected";
+                    break;
+                default:
+                    StatusRecruitment = "Pending";
+                    break;
+            }
+
+            Console.WriteLine($"Recruitment status updated to: {StatusRecruitment}");
+        }
     }
 }

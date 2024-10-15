@@ -6,20 +6,22 @@ using System.Threading.Tasks;
 
 namespace FeedbackManagement
 {
-    public class FeedBack
+    public class Feedback
     {
         public int ID { get; set; }
-        public string Feedback { get; set; }
+        public string FeedbackText { get; set; }
 
         //Constructor
-        public FeedBack(int id, string feedback)
+        public Feedback(int id, string feedback)
         {
             ID = id;
-            Feedback = feedback;
+            FeedbackText = feedback;
         }
-        public void AddFeedback()
+
+        public void DisplayFeedback()
         {
-            //Console.WriteLine("Feedback: " + feedback)
+            Console.WriteLine("$ID: " + ID);
+            Console.WriteLine("$Feedback: " + FeedbackText);
         }
     }
 }
