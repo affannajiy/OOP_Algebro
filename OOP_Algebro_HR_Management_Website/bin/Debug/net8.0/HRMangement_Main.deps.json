@@ -9,10 +9,12 @@
       "HRMangement_Main/1.0.0": {
         "dependencies": {
           "ApplicantManagement": "1.0.0",
+          "BenefitManagement": "1.0.0",
           "EmployeeManagement": "1.0.0",
           "FeebackManagement": "1.0.0",
           "Leave_TimeTrackingManagement": "1.0.0",
-          "PerformanceEvaluationManagement": "1.0.0"
+          "PerformanceEvaluationManagement": "1.0.0",
+          "WorkProjectManagement": "1.0.0"
         },
         "runtime": {
           "HRMangement_Main.dll": {}
@@ -21,6 +23,14 @@
       "ApplicantManagement/1.0.0": {
         "runtime": {
           "ApplicantManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BenefitManagement/1.0.0": {
+        "runtime": {
+          "BenefitManagement.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -60,6 +70,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "WorkProjectManagement/1.0.0": {
+        "runtime": {
+          "WorkProjectManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -70,6 +88,11 @@
       "sha512": ""
     },
     "ApplicantManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BenefitManagement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -90,6 +113,11 @@
       "sha512": ""
     },
     "PerformanceEvaluationManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkProjectManagement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

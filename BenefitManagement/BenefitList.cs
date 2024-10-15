@@ -8,6 +8,6 @@ namespace BenefitManagement
 {
     public class BenefitList
     {
-        public List<Benefit> benefitList = new List<Benefit>();
+        public List<BenefitList> benefitList = new List<BenefitList>();
     }
 }

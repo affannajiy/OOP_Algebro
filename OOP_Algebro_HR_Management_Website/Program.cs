@@ -26,7 +26,7 @@ namespace HRManagement_Main
 
             BenefitList benefitList = new BenefitList();
 
-            WorkProjectList workProjectList = new WorkProjectList()
+            WorkProjectList workProjectList = new WorkProjectList();
         }
     }
 }
