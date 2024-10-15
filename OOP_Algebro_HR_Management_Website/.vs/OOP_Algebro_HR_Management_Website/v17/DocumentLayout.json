@@ -3,24 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\kpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:kpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{739DB6F6-6044-4187-864C-B64F215A0601}|..\\StringLibrary\\StringLibrary.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\stringlibrary\\showcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\ethics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:ethics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{739DB6F6-6044-4187-864C-B64F215A0601}|..\\StringLibrary\\StringLibrary.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +33,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KPI.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\KPI.cs",
-              "RelativeDocumentMoniker": "KPI.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\KPI.cs",
-              "RelativeToolTip": "KPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:16:20.202Z",
+              "WhenOpened": "2024-10-15T03:33:24.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Benefit.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Benefit.cs",
-              "RelativeDocumentMoniker": "Benefit.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Benefit.cs",
-              "RelativeToolTip": "Benefit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Title": "ShowCase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\StringLibrary\\ShowCase.cs",
+              "RelativeDocumentMoniker": "..\\StringLibrary\\ShowCase.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\StringLibrary\\ShowCase.cs",
+              "RelativeToolTip": "..\\StringLibrary\\ShowCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:15:35.518Z",
+              "WhenOpened": "2024-10-15T03:32:39.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Ethics.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Ethics.cs",
-              "RelativeDocumentMoniker": "Ethics.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Ethics.cs",
-              "RelativeToolTip": "Ethics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\StringLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\StringLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\StringLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\StringLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:14:29.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Performance.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Performance.cs",
-              "RelativeDocumentMoniker": "Performance.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Performance.cs",
-              "RelativeToolTip": "Performance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:13:00.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Work.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Work.cs",
-              "RelativeDocumentMoniker": "Work.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Work.cs",
-              "RelativeToolTip": "Work.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T03:10:44.864Z",
+              "WhenOpened": "2024-10-15T03:18:57.045Z",
               "EditorCaption": ""
             }
           ]

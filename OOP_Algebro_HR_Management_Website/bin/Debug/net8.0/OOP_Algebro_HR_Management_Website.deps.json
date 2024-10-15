@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOP_Algebro_HR_Management_Website/1.0.0": {
+        "dependencies": {
+          "StringLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OOP_Algebro_HR_Management_Website.dll": {}
+        }
+      },
+      "StringLibrary/1.0.0": {
+        "runtime": {
+          "StringLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_Algebro_HR_Management_Website/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -41,20 +41,20 @@ namespace OOP_Algebro_HR_Management_Website
         }
         public void UpdateStatus()
         {
-            public string status;
-            private int appStatus = Convert.ToInt32(Console.ReadLine());
+            int appStatus = Convert.ToInt32(Console.ReadLine());
             if (appStatus == 0)
             {
-                status = "Accepted";
+                statusRecruitment = "Accepted";
             }
             else if (appStatus == 1)
             {
-                status = "Rejected";
-            }else
-            {
-                status = "Pending";
+                statusRecruitment = "Rejected";
             }
-      
+            else
+            {
+                statusRecruitment = "Pending";
+            }
         }
+
     }
 }

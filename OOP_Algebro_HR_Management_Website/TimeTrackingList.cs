@@ -18,12 +18,12 @@ namespace OOP_Algebro_HR_Management_Website
 
         public void addTimeTracking(TimeTracking timeTracking)
         {
-          timeTrackings.Add(timeTracking)
+            timeTrackings.Add(timeTracking);
         }
 
         public void removeTimeTracking(TimeTracking timeTracking)
         {
-          timeTrackings.Remove(timeTracking)
+            timeTrackings.Remove(timeTracking);
         }
 
         public void display()

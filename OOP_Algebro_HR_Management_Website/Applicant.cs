@@ -9,18 +9,26 @@ namespace OOP_Algebro_HR_Management_Website
     internal class Applicant
     {
         public string AppName { get; set; }
-        
         public int AppContactNum { get; set; }
-
         public string AppRole { get; set; }
+        public DateTime IvDate { get; set; }
 
-        public Date IvDate = new Date();
-
-        public appInfo(string appName, int appContactNum, string appRole, Date ivDate)
+        // Constructors
+        public Applicant(string appName, int appContactNum, string appRole, DateTime ivDate)
         {
-            AppName = appName; AppContactNum = appContactNum; AppRole = appRole; IvDate = ivDate;
+            AppName = appName;
+            AppContactNum = appContactNum;
+            AppRole = appRole;
+            IvDate = ivDate;
         }
 
+        // Default constructor
         public Applicant() { }
+
+        // Display
+        public void DisplayApplicantInfo()
+        {
+            Console.WriteLine($"Name: {AppName}, Contact: {AppContactNum}, Role: {AppRole}, Interview Date: {IvDate.ToShortDateString()}");
+        }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Algebro_HR_Management_Website
 {
-    internal class FeedBack
+    public class FeedBack
     {
         public int id { get; set; }
         public string feeback { get; set; }
