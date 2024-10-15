@@ -5,15 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|OOP_Algebro_HR_Management_Website.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60498609-0057-4422-9599-9C14171169DD}|..\\BenefitManagement\\BenefitManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\benefitmanagement\\benefitlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1B4E6E-8D87-4BFD-B81E-6D6F5B203CE8}|..\\WorkProjectManagement\\WorkProjectManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\workprojectmanagement\\worklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60498609-0057-4422-9599-9C14171169DD}|..\\BenefitManagement\\BenefitManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\benefitmanagement\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,52 +26,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BenefitList.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitList.cs",
-              "RelativeDocumentMoniker": "..\\BenefitManagement\\BenefitList.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitList.cs",
-              "RelativeToolTip": "..\\BenefitManagement\\BenefitList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:52:35.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkList.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkList.cs",
-              "RelativeDocumentMoniker": "..\\WorkProjectManagement\\WorkList.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkList.cs",
-              "RelativeToolTip": "..\\WorkProjectManagement\\WorkList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:52:09.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Benefit.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\Benefit.cs",
-              "RelativeDocumentMoniker": "..\\BenefitManagement\\Benefit.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\Benefit.cs",
-              "RelativeToolTip": "..\\BenefitManagement\\Benefit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T04:51:05.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "EditorCaption": ""
