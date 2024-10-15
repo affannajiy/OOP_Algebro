@@ -8,7 +8,7 @@ namespace PerformanceEvaluationManagement
 {
     public class Ethics
     {
-        public int merit { get; set; }
+        public int Merit { get; set; }
 
        public void meritList(int merit)
       {
