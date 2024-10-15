@@ -11,10 +11,10 @@ namespace EmployeeManagement
         public string EmpName { get; set; }
         public int EmpID { get; set; }
         public string EmpPosition { get; set; }
-        public int EmpContactNum { get; set; }
+        public string EmpContactNum { get; set; }
         public string EmpStatus { get; set; }
 
-        public Employee(string empName, int empID, string empPosition, int empContactNum, string status)
+        public Employee(string empName, int empID, string empPosition, string empContactNum, string status)
         {
             EmpName = empName;
             EmpID = empID;

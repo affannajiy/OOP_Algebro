@@ -25,9 +25,9 @@ namespace HRManagement_Main
 
             //Example for Employee Info
             EmployeeList employeeList = new EmployeeList();
-            Employee emp1 = new Employee("John Doe", 1001, "Manager", 123456789, "Active");
-            Employee emp2 = new Employee("Jane Smith", 1002, "Developer", 987654321, "Active");
-            Employee emp3 = new Employee("Emily Davis", 1003, "Designer", 112233445, "On Leave");
+            Employee emp1 = new Employee("John Doe", 1001, "Manager", "0123556789", "Active");
+            Employee emp2 = new Employee("Jane Smith", 1002, "Developer", "0198764321", "Active");
+            Employee emp3 = new Employee("Emily Davis", 1003, "Designer", "0112233445", "On Leave");
             employeeList.AddEmployee(emp1);
             employeeList.AddEmployee(emp2);
             employeeList.AddEmployee(emp3);

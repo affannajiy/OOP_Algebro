@@ -14,7 +14,7 @@ namespace LeaveTimeTrackingManagement
         public DateTime EndTime { get; set; }
 
         public TimeTracking(string empName, int empID,  DateTime startTime, DateTime endTime)
-            : base(empName, empID, string.Empty, 0, string.Empty)
+            : base(empName, empID, string.Empty, "", string.Empty)
         {
             StartTime = startTime;
             EndTime = endTime;

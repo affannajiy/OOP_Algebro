@@ -17,7 +17,7 @@ namespace LeaveTimeTrackingManagement
 
         // Constructor
         public LeaveRequest(string empName, int empID, string reason, string approvalStatus, DateTime leaveDate, int daysTaken)
-            : base(empName, empID, string.Empty, 0, string.Empty) // Calling base constructor
+            : base(empName, empID, string.Empty, "", string.Empty) // Calling base constructor
         {
             Reason = reason;
             ApprovalStatus = approvalStatus;
