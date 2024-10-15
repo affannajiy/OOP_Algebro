@@ -35,6 +35,16 @@ namespace WorkProjectManagement
             return EndWorkTime - StartWorkTime;
         }
 
+/*
+        Example of output for work.cs (using object yg dh ada input untuk tunjuk example output)
+        // Create a Work object for a new project that hasn't started & display
+        Work notStartedWork = new Work(0.0, 14, 22, "Not Started");
+        notStartedWork.DisplayWorkDetails();
+
+        Output:
+        Work Status: Not Started, Progress: 0.00%, Total Hours: 8
+*/
+        
         // Display method
         public void DisplayWorkDetails()
         {
