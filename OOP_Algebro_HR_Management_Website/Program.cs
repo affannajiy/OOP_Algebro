@@ -22,6 +22,8 @@ namespace HRManagement_Main
             applicantList.Add(applicant2);
             applicantList.Add(applicant3);
             applicantList.Display();
+            //RemoveApplicant()
+            //FindApplicantByName()
 
             //Example for Employee Info
             EmployeeList employeeList = new EmployeeList();
