@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "OOP_Algebro_HR_Management_Website/1.0.0": {
         "dependencies": {
-          "ApplicantManagement": "1.0.0"
+          "ApplicantManagement": "1.0.0",
+          "EmployeeManagement": "1.0.0"
         },
         "runtime": {
           "OOP_Algebro_HR_Management_Website.dll": {}
@@ -17,6 +18,14 @@
       "ApplicantManagement/1.0.0": {
         "runtime": {
           "ApplicantManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "EmployeeManagement/1.0.0": {
+        "runtime": {
+          "EmployeeManagement.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -31,6 +40,11 @@
       "sha512": ""
     },
     "ApplicantManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeManagement/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

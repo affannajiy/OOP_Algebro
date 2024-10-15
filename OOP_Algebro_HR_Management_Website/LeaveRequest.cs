@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EmployeeManagement;
 
 namespace OOP_Algebro_HR_Management_Website
 {
-    internal class LeaveRequest : Employee
+    public class LeaveRequest : Employee
     {
         public string approvalStatus { get; set; }
         public DateTime leaveDate { get; set; }
