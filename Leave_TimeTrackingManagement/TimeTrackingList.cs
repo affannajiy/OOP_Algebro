@@ -57,6 +57,7 @@ namespace LeaveTimeTrackingManagement
                     timeTracking.GetTotalHours());
             }
             Console.WriteLine("-----------------------------------------------------------------------------------------------------------");
+            Console.WriteLine();
         }
 
         // Method to find and display TimeTracking entry by employee ID

@@ -5,24 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB1B4E6E-8D87-4BFD-B81E-6D6F5B203CE8}|..\\WorkProjectManagement\\WorkProjectManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\workprojectmanagement\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68DBB2F7-3494-4939-A716-53BAD4A17F45}|..\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\performanceevaluationmanagement\\ethics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68DBB2F7-3494-4939-A716-53BAD4A17F45}|..\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\performanceevaluationmanagement\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C43AF3F-6B05-4C63-8F7F-085FC5ED2AB1}|..\\EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\employeemanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}|..\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\leave_timetrackingmanagement\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68DBB2F7-3494-4939-A716-53BAD4A17F45}|..\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\performanceevaluationmanagement\\kpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,88 +24,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDcAAAAfAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAtwDQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ethics.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\Ethics.cs",
-              "RelativeDocumentMoniker": "..\\PerformanceEvaluationManagement\\Ethics.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\Ethics.cs",
-              "RelativeToolTip": "..\\PerformanceEvaluationManagement\\Ethics.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAApwBgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:55:36.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KPI.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\KPI.cs",
-              "RelativeDocumentMoniker": "..\\PerformanceEvaluationManagement\\KPI.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\KPI.cs",
-              "RelativeToolTip": "..\\PerformanceEvaluationManagement\\KPI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:23:53.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "RelativeToolTip": "..\\Leave_TimeTrackingManagement\\LeaveRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:02:31.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\EmployeeManagement\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\EmployeeManagement\\Employee.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\EmployeeManagement\\Employee.cs",
-              "RelativeToolTip": "..\\EmployeeManagement\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:16:22.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Work.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\WorkProjectManagement\\Work.cs",
-              "RelativeDocumentMoniker": "..\\WorkProjectManagement\\Work.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\WorkProjectManagement\\Work.cs",
-              "RelativeToolTip": "..\\WorkProjectManagement\\Work.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:58:20.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Performance.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\Performance.cs",
-              "RelativeDocumentMoniker": "..\\PerformanceEvaluationManagement\\Performance.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\Performance.cs",
-              "RelativeToolTip": "..\\PerformanceEvaluationManagement\\Performance.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:56:08.414Z",
               "EditorCaption": ""
             }
           ]

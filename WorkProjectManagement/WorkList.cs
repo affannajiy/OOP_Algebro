@@ -32,6 +32,7 @@ namespace WorkProjectManagement
             {
                 work.DisplayWorkDetails();
             }
+            Console.WriteLine();
         }
     }
 }

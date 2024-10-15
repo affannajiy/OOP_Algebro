@@ -68,6 +68,7 @@ namespace ApplicantManagement
             {
                 applicant.DisplayApplicantInfo();
             }
+            Console.WriteLine();
         }
 
         //Update

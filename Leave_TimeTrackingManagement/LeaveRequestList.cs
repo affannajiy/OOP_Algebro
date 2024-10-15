@@ -49,6 +49,7 @@ namespace Leave_TimeTrackingManagement
             {
                 leaveRequest.DisplayLeaveRequestInfo();
             }
+            Console.WriteLine();
         }
 
         // Method to find and display leave request by employee ID

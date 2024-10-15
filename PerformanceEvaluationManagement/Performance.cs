@@ -9,6 +9,7 @@ namespace PerformanceEvaluationManagement
 {
     public class Performance : Work
     {
+        public List<Work> WorkProjects = new List<Work>();
         // Property to track whether work is completed
         public string WorkCompleted { get; set; }
 
@@ -25,16 +26,19 @@ namespace PerformanceEvaluationManagement
         // Method to update total work completed if progress is 100%
         public void UpdateWorkCompletion()
         {
-            if (WorkProgress == 100)
+            foreach (Work work in WorkProjects)
             {
-                TotalWorkCompleted++;
-                WorkCompleted = "Yes"; // Mark the work as completed
-                Console.WriteLine($"Work '{ProjectTitle}' is completed. Total completed work count: {TotalWorkCompleted}");
-            }
-            else
-            {
-                WorkCompleted = "No"; // Work is not yet completed
-                Console.WriteLine($"Work '{ProjectTitle}' is still in progress with {WorkProgress}% completed.");
+                if (WorkProgress == 100)
+                {
+                    TotalWorkCompleted++;
+                    WorkCompleted = "Yes"; // Mark the work as completed
+                    Console.WriteLine($"Work '{ProjectTitle}' is completed. Total completed work count: {TotalWorkCompleted}");
+                }
+                else
+                {
+                    WorkCompleted = "No"; // Work is not yet completed
+                    Console.WriteLine($"Work '{ProjectTitle}' is still in progress with {WorkProgress}% completed.");
+                }
             }
         }
     }

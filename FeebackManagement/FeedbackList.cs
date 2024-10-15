@@ -52,6 +52,7 @@ namespace FeedbackManagement
             {
                 feedback.DisplayFeedback();
             }
+            Console.WriteLine();
         }
     }
 }

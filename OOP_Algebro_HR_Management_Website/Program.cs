@@ -46,7 +46,17 @@ namespace HRManagement_Main
             feedbackList.DisplayAllFeedbacks();
             //RemoveFeedBack()
 
-            Performance work1 = new Performance("Website Development", 100, "No");
+            // Example for Work list
+            WorkProjectList workProjectList = new WorkProjectList();
+            Work project1 = new Work(100.0, "Stellar Nexus");
+            Work project2 = new Work(100.0, "Quantum Horizon");
+            Work project3 = new Work(50.0, "EchoForge");
+            workProjectList.AddWorkProject(project1);
+            workProjectList.AddWorkProject(project2);
+            workProjectList.AddWorkProject(project3);
+            workProjectList.DisplayAllWorkProjects();
+
+            Performance work1 = new Performance("Quantum Horizon", 100, "No");
             work1.UpdateWorkCompletion();
 
             Ethics employeeEthics = new Ethics(1002, 50);
@@ -55,7 +65,8 @@ namespace HRManagement_Main
             employeeEthics.DisplayMerit();
             //DisplayViolations
 
-            KPI kPI = new KPI();
+            KPI employeeKPI = new KPI(1001, 2, 42.0, 28);
+            employeeKPI.DisplayKPI();
 
             //Example for Leave Request
             LeaveRequestList leaveRequestList = new LeaveRequestList();
@@ -81,15 +92,6 @@ namespace HRManagement_Main
 
             BenefitList benefitList = new BenefitList();
 
-            // Example for Work list
-            WorkProjectList workProjectList = new WorkProjectList();
-            Work project1 = new Work(50.0, "Stellar Nexus");
-            Work project2 = new Work(100.0, "Quantum Horizon");
-            Work project3 = new Work(0.0, "EchoForge");
-            workProjectList.AddWorkProject(project1);
-            workProjectList.AddWorkProject(project2);
-            workProjectList.AddWorkProject(project3);
-            workProjectList.DisplayAllWorkProjects();
         }
     }
 }

@@ -47,6 +47,7 @@ namespace EmployeeManagement
             {
                 employee.DisplayEmployeeInfo();
             }
+            Console.WriteLine();
         }
 
         // Method to find and display employee details by ID

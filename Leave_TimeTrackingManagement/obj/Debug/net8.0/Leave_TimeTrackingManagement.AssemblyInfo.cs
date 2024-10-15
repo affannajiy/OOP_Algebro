@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Leave_TimeTrackingManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e81ed267bc2e6411540c1eda46197150233f17a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94897532ba46b40569efad29ebb3042ef99b1ea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Leave_TimeTrackingManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Leave_TimeTrackingManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

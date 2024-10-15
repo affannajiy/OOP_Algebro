@@ -31,7 +31,7 @@ namespace PerformanceEvaluationManagement
                 { "Dress code violation", 3 }
             };
         }
-
+        
         // Method to adjust merit based on violation
         public void DeductMerit(string violation)
         {
@@ -39,7 +39,7 @@ namespace PerformanceEvaluationManagement
             {
                 int deduction = violations[violation];
                 Merit -= deduction;
-                Console.WriteLine($"Violation: {violation} (-{deduction} merit points). Remaining Merit: {Merit}");
+                Console.WriteLine($"ID: {EmpID} | Violation: {violation} (-{deduction} merit points). Remaining Merit: {Merit}");
             }
             else
             {
@@ -56,13 +56,17 @@ namespace PerformanceEvaluationManagement
                 Console.WriteLine($"{violation.Key}: -{violation.Value} merit points");
             }
             Console.WriteLine("-------------------------------------------");
+            Console.WriteLine();
         }
 
         // Method to display the employee's current merit score
         public void DisplayMerit()
         {
+            Console.WriteLine("Workplace Merit: ");
+            Console.WriteLine("-------------------------------------------");
             Console.WriteLine($"Employee ID: {EmpID}, Current Merit: {Merit}");
             Console.WriteLine("-------------------------------------------");
+            Console.WriteLine();
         }
     }
 }
