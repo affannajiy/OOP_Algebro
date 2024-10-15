@@ -12,6 +12,16 @@
           "bin/placeholder/ApplicantManagement.dll": {}
         }
       },
+      "BenefitManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BenefitManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BenefitManagement.dll": {}
+        }
+      },
       "EmployeeManagement/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -54,6 +64,16 @@
         "runtime": {
           "bin/placeholder/PerformanceEvaluationManagement.dll": {}
         }
+      },
+      "WorkProjectManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WorkProjectManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkProjectManagement.dll": {}
+        }
       }
     }
   },
@@ -62,6 +82,11 @@
       "type": "project",
       "path": "../ApplicantManagement/ApplicantManagement.csproj",
       "msbuildProject": "../ApplicantManagement/ApplicantManagement.csproj"
+    },
+    "BenefitManagement/1.0.0": {
+      "type": "project",
+      "path": "../BenefitManagement/BenefitManagement.csproj",
+      "msbuildProject": "../BenefitManagement/BenefitManagement.csproj"
     },
     "EmployeeManagement/1.0.0": {
       "type": "project",
@@ -82,15 +107,22 @@
       "type": "project",
       "path": "../PerformanceEvaluationManagement/PerformanceEvaluationManagement.csproj",
       "msbuildProject": "../PerformanceEvaluationManagement/PerformanceEvaluationManagement.csproj"
+    },
+    "WorkProjectManagement/1.0.0": {
+      "type": "project",
+      "path": "../WorkProjectManagement/WorkProjectManagement.csproj",
+      "msbuildProject": "../WorkProjectManagement/WorkProjectManagement.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "ApplicantManagement >= 1.0.0",
+      "BenefitManagement >= 1.0.0",
       "EmployeeManagement >= 1.0.0",
       "FeebackManagement >= 1.0.0",
       "Leave_TimeTrackingManagement >= 1.0.0",
-      "PerformanceEvaluationManagement >= 1.0.0"
+      "PerformanceEvaluationManagement >= 1.0.0",
+      "WorkProjectManagement >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -129,6 +161,9 @@
             "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
               "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj"
             },
+            "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj"
+            },
             "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
               "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
             },
@@ -140,6 +175,9 @@
             },
             "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
               "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
+            },
+            "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj"
             }
           }
         }

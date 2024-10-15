@@ -3,6 +3,8 @@ using EmployeeManagement;
 using LeaveTimeTrackingManagement;
 using PerformanceEvaluationManagement;
 using FeedbackManagement;
+using BenefitManagement;
+using WorkProjectManagement;
 
 namespace HRManagement_Main
 {
@@ -22,6 +24,9 @@ namespace HRManagement_Main
 
             TimeTrackingList timeTrackingList = new TimeTrackingList();
 
+            BenefitList benefitList = new BenefitList();
+
+            WorkProjectList workProjectList = new WorkProjectList()
         }
     }
 }
