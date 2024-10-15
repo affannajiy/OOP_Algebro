@@ -71,7 +71,20 @@ namespace HRManagement_Main
 
             BenefitList benefitList = new BenefitList();
 
+            // Example for Work list
             WorkProjectList workProjectList = new WorkProjectList();
+            Work project1 = new Work(50.0, 9, 17, "In Progress");
+            workProjectList.workProjectList.Add(project1);
+            Work project2 = new Work(100.0, 8, 16, "Completed");
+            workProjectList.workProjectList.Add(project2);
+            Work project3 = new Work(0.0, 10, 18, "Not Started");
+            workProjectList.workProjectList.Add(project3);
+            Work project4 = new Work(90.0, 11, 19, "Almost Done");
+            workProjectList.workProjectList.Add(project4);
+            Work project5 = new Work(75.0, 9, 20, "In Progress");
+            workProjectList.workProjectList.Add(project5);
+            WorkerProjectList.DisplayAllWorkProjects()
+            
         }
     }
 }
