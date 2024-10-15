@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ApplicantManagement;
+﻿using ApplicantManagement;
 using EmployeeManagement;
 using LeaveTimeTrackingManagement;
 using PerformanceEvaluationManagement;
@@ -25,6 +20,7 @@ namespace OOP_Algebro_HR_Management_Website
             LeaveRequest leaveRequest = new LeaveRequest();
 
             TimeTrackingList timeTrackingList = new TimeTrackingList();
+
         }
     }
 }

@@ -84,9 +84,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\OOP_Algebro_HR_Management_Website.csproj",
-      "projectName": "OOP_Algebro_HR_Management_Website",
-      "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\OOP_Algebro_HR_Management_Website.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
+      "projectName": "HRMangement_Main",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\obj\\",
       "projectStyle": "PackageReference",
