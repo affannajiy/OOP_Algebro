@@ -10,3 +10,15 @@ C:\Users\user\OneDrive\Documents\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\
 C:\Users\user\OneDrive\Documents\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\refint\BenefitManagement.dll
 C:\Users\user\OneDrive\Documents\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.pdb
 C:\Users\user\OneDrive\Documents\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\ref\BenefitManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\BenefitManagement.deps.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\BenefitManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\BenefitManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.sourcelink.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\refint\BenefitManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\ref\BenefitManagement.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj",
         "projectName": "ApplicantManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj",
         "projectName": "BenefitManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj",
         "projectName": "EmployeeManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj",
         "projectName": "FeebackManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,14 +264,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj",
         "projectName": "Leave_TimeTrackingManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -293,8 +293,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
               }
             }
           }
@@ -333,14 +333,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
         "projectName": "HRMangement_Main",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRMangement_Main.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -362,26 +362,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\ApplicantManagement\\ApplicantManagement.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\BenefitManagement\\BenefitManagement.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmployeeManagement\\EmployeeManagement.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\FeebackManagement\\FeebackManagement.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\Leave_TimeTrackingManagement\\Leave_TimeTrackingManagement.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj"
               }
             }
           }
@@ -420,14 +420,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj",
         "projectName": "PerformanceEvaluationManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\PerformanceEvaluationManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\PerformanceEvaluationManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -485,14 +485,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj",
         "projectName": "WorkProjectManagement",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\WorkProjectManagement.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\WorkProjectManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\WorkProjectManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

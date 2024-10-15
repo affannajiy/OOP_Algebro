@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|c:\\users\\user\\onedrive\\documents\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\oop_algebro_hr_management_website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{325363C5-E9BF-440F-B748-89E8FEE1BBB2}|HRMangement_Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T03:33:24.684Z",
               "EditorCaption": ""
