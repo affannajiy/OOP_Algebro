@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "..\Em
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leave_TimeTrackingManagement", "..\Leave_TimeTrackingManagement\Leave_TimeTrackingManagement.csproj", "{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceEvaluationManagement", "..\PerformanceEvaluationManagement\PerformanceEvaluationManagement.csproj", "{68DBB2F7-3494-4939-A716-53BAD4A17F45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5C3A991-04EB-45E2-9305-C50D0FFEEFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DBB2F7-3494-4939-A716-53BAD4A17F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DBB2F7-3494-4939-A716-53BAD4A17F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DBB2F7-3494-4939-A716-53BAD4A17F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DBB2F7-3494-4939-A716-53BAD4A17F45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
