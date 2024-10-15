@@ -11,10 +11,10 @@ namespace ApplicantManagement
     public class ApplicantList
     {
         public string StatusRecruitment { get; set; }
-        private List<Applicant> applicants { get; set; }
+        public List<Applicant> applicants {get; set;}
 
         //Constructor
-        public ApplicantList() 
+        public ApplicantList()
         {
             applicants = new List<Applicant>();
         }
@@ -32,14 +32,14 @@ namespace ApplicantManagement
         }
 
         //Add
-        public void Add(Applicant applicant)
+        public void AddApplicant(Applicant applicant)
         {
             applicants.Add(applicant);
             Console.WriteLine($"Applicant {applicant.AppName} added successfully.");
         }
 
         //Remove Applicant (Name)
-        public void Remove(Applicant applicant)
+        public void RemoveApplicant(Applicant applicant)
         {
             Applicant applicantToRemove = applicants.Find(a => a.AppName.Equals(applicant.AppName, StringComparison.OrdinalIgnoreCase));
             if (applicantToRemove != null)
@@ -54,7 +54,7 @@ namespace ApplicantManagement
         }
 
         //Display
-        public void Display()
+        public void DisplayAllApplicants()
         {
             if (applicants.Count == 0)
             {

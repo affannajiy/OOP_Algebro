@@ -18,10 +18,10 @@ namespace HRManagement_Main
             Applicant applicant1 = new Applicant("Adam Marwan", "0123456789", "Software Engineer", new DateTime(2024, 1, 31, 14, 30, 0));
             Applicant applicant2 = new Applicant("Jamal Abdillah", "0136969607", "Cleaner", new DateTime(2024, 2, 20, 10, 30, 0));
             Applicant applicant3 = new Applicant("Siti Nabila", "0176678956", "Accountant", new DateTime(2024, 2, 21, 11, 35, 0));
-            applicantList.Add(applicant1);
-            applicantList.Add(applicant2);
-            applicantList.Add(applicant3);
-            applicantList.Display();
+            applicantList.AddApplicant(applicant1);
+            applicantList.AddApplicant(applicant2);
+            applicantList.AddApplicant(applicant3);
+            applicantList.DisplayAllApplicants();
             //RemoveApplicant()
             //FindApplicantByName()
 
@@ -37,7 +37,13 @@ namespace HRManagement_Main
             //RemoveEmployee()
             //FindEmployeeByID()
 
+            //Example for Feedback
             FeedbackList feedbackList = new FeedbackList();
+            Feedback feedback1 = new Feedback(1001, "Excellent, I love the company.");
+            Feedback feedback2 = new Feedback(1002, "The company is meh, I am okay.");
+            feedbackList.AddFeedback(feedback1);
+            feedbackList.AddFeedback(feedback2);
+            feedbackList.DisplayAllFeedbacks();
 
             KPI kPI = new KPI();
 
