@@ -52,3 +52,9 @@ C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\Perf
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\WorkProjectManagement.pdb
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.csproj.AssemblyReference.cache
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\Performa.865881F5.Up2Date
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\WorkProjectManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\bin\Debug\net8.0\WorkProjectManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\PerformanceEvaluationManagement.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\PerformanceEvaluationManagement\obj\Debug\net8.0\Performa.865881F5.Up2Date

@@ -17,12 +17,18 @@
       },
       "EmployeeManagement/1.0.0": {
         "runtime": {
-          "EmployeeManagement.dll": {}
+          "EmployeeManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "WorkProjectManagement/1.0.0": {
         "runtime": {
-          "WorkProjectManagement.dll": {}
+          "WorkProjectManagement.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
