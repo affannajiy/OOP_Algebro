@@ -26,6 +26,9 @@
         }
       },
       "BenefitManagement/1.0.0": {
+        "dependencies": {
+          "PerformanceEvaluationManagement": "1.0.0"
+        },
         "runtime": {
           "BenefitManagement.dll": {}
         }

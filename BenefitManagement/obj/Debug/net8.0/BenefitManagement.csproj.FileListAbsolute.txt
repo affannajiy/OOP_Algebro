@@ -46,3 +46,11 @@ C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\Bene
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\BenefitManagement.dll
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\BenefitManagement.pdb
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\ref\BenefitManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\PerformanceEvaluationManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\WorkProjectManagement.dll
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\PerformanceEvaluationManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\bin\Debug\net8.0\WorkProjectManagement.pdb
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitManagement.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\BenefitManagement\obj\Debug\net8.0\BenefitM.698671BE.Up2Date

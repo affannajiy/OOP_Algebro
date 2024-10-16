@@ -1,11 +1,64 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "EmployeeManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmployeeManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManagement.dll": {}
+        }
+      },
+      "PerformanceEvaluationManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EmployeeManagement": "1.0.0",
+          "WorkProjectManagement": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PerformanceEvaluationManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PerformanceEvaluationManagement.dll": {}
+        }
+      },
+      "WorkProjectManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WorkProjectManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorkProjectManagement.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EmployeeManagement/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeManagement/EmployeeManagement.csproj",
+      "msbuildProject": "../EmployeeManagement/EmployeeManagement.csproj"
+    },
+    "PerformanceEvaluationManagement/1.0.0": {
+      "type": "project",
+      "path": "../PerformanceEvaluationManagement/PerformanceEvaluationManagement.csproj",
+      "msbuildProject": "../PerformanceEvaluationManagement/PerformanceEvaluationManagement.csproj"
+    },
+    "WorkProjectManagement/1.0.0": {
+      "type": "project",
+      "path": "../WorkProjectManagement/WorkProjectManagement.csproj",
+      "msbuildProject": "../WorkProjectManagement/WorkProjectManagement.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "PerformanceEvaluationManagement >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\alexa\\.nuget\\packages\\": {},
@@ -39,7 +92,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
+              "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

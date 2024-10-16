@@ -97,7 +97,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj": {
+                "projectPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\PerformanceEvaluationManagement\\PerformanceEvaluationManagement.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

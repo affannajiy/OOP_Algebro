@@ -56,19 +56,22 @@ namespace HRManagement_Main
             workProjectList.AddWorkProject(project3);
             workProjectList.DisplayAllWorkProjects();
 
+            //Example for Performance
             Performance work1 = new Performance("Quantum Horizon", 100, "No");
             work1.UpdateWorkCompletion();
 
+            //Example for Ethics / Merit
             Ethics employeeEthics = new Ethics(1002, 50);
             employeeEthics.DeductMerit("Late to work");
             employeeEthics.DeductMerit("Insubordination");
             employeeEthics.DisplayMerit();
-            //DisplayViolations
+            //DisplayViolations()
 
+            //Example for KPI
             KPI employeeKPI = new KPI(1001, 2, 42.0, 28);
             employeeKPI.DisplayKPI();
 
-            //Example for Leave Request
+            //Example for Leave Request List
             LeaveRequestList leaveRequestList = new LeaveRequestList();
             DateTime leaveDate1 = new DateTime(2024, 10, 20);
             DateTime leaveDate2 = new DateTime(2024, 11, 5);
@@ -80,7 +83,7 @@ namespace HRManagement_Main
             //RemoveLeaveRequest()
             //FindLeaveRequestByID()
 
-            //Example for Time Tracking
+            //Example for Time Tracking List
             TimeTrackingList timeTrackingList = new TimeTrackingList();
             TimeTracking tt1 = new TimeTracking("John Doe", 1001, new DateTime(2024, 10, 15, 9, 0, 0), new DateTime(2024, 10, 15, 17, 0, 0));
             TimeTracking tt2 = new TimeTracking("Jane Smith", 1002, new DateTime(2024, 10, 14, 10, 0, 0), new DateTime(2024, 10, 14, 18, 0, 0));
@@ -90,8 +93,20 @@ namespace HRManagement_Main
             //RemoveTimeTracking()
             //FindTimeTrackingByID()
 
+            //Example for Benefit List
             BenefitList benefitList = new BenefitList();
-
+            Benefit emp1b = new Benefit(1001, 95.0); // High KPI
+            Benefit emp2b = new Benefit(1002, 65.0); // Medium KPI
+            Benefit emp3b = new Benefit(1003, 45.0); // Low KPI
+            emp1b.AssignBenefitsBasedOnKPI(); 
+            emp2b.AssignBenefitsBasedOnKPI(); 
+            emp3b.AssignBenefitsBasedOnKPI(); 
+            benefitList.AddBenefit(emp1b); 
+            benefitList.AddBenefit(emp2b);
+            benefitList.AddBenefit(emp3b);
+            benefitList.DisplayAllBenefits();
+            //RemoveBenefit()
+            //FindBenefitByID()
         }
     }
 }
