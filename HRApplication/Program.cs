@@ -1,5 +1,6 @@
 ﻿using EmpAppManagement; //EmployeeApplicantManagement: Employee & Applicant Features
 using HRManagement; //HRManagement: HR Features & Functionalities
+using HRDatabaseManagement;
 
 namespace HRApplication
 {
@@ -101,6 +102,13 @@ namespace HRApplication
             benefitList.DisplayAllBenefits();
             //RemoveBenefit()
             //FindBenefitByID()
+
+            //Firestore
+            FirestoreManager firestoremanager = new FirestoreManager();
+            firestoremanager.initFirestore();
+
+            var task2 = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
+            task2.Wait(); //Blocks until task is done
         }
     }
 }

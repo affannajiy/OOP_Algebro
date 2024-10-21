@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\EmpAppManagement\EmpAppManagement.csproj" />
     <ProjectReference Include="..\HRManagement\HRManagement.csproj" />
+    <ProjectReference Include="..\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\HRDatabaseManagement.csproj" />
   </ItemGroup>
 
 </Project>
