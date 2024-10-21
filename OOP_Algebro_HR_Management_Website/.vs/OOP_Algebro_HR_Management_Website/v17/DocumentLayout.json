@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\hrapplication\\hrapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\hrapplication\\hrapplication.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\hrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,14 +24,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
-              "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
-              "RelativeToolTip": "..\\HRApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:37:39.769Z",
+              "Title": "HRApplication",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\HRApplication.csproj",
+              "RelativeDocumentMoniker": "..\\HRApplication\\HRApplication.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\HRApplication.csproj",
+              "RelativeToolTip": "..\\HRApplication\\HRApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T14:54:48.48Z",
               "EditorCaption": ""
             },
             {
@@ -35,6 +41,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HRApplication",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\HRApplication.csproj",
+              "RelativeDocumentMoniker": "..\\HRApplication\\HRApplication.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\HRApplication.csproj",
+              "RelativeToolTip": "..\\HRApplication\\HRApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T14:55:34.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
+              "RelativeToolTip": "..\\HRApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:37:39.769Z",
+              "EditorCaption": ""
             }
           ]
         },

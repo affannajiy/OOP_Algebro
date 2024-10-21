@@ -16,3 +16,6 @@ C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\obj\De
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\obj\Debug\net8.0\refint\HRApplication.dll
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\obj\Debug\net8.0\HRApplication.pdb
 C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\obj\Debug\net8.0\ref\HRApplication.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\bin\Debug\net8.0\HRApplication.exe
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\bin\Debug\net8.0\HRApplication.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRApplication\obj\Debug\net8.0\HRApplication.genruntimeconfig.cache
