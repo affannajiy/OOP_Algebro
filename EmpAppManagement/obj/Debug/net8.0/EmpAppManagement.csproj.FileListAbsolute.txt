@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\bin\Debug\net8.0\EmpAppManagement.deps.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\bin\Debug\net8.0\EmpAppManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\bin\Debug\net8.0\EmpAppManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.sourcelink.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\refint\EmpAppManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\EmpAppManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\EmpAppManagement\obj\Debug\net8.0\ref\EmpAppManagement.dll

@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.sourcelink.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\bin\Debug\net8.0\HRManagement.deps.json
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\bin\Debug\net8.0\HRManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\bin\Debug\net8.0\HRManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\bin\Debug\net8.0\EmpAppManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\bin\Debug\net8.0\EmpAppManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManage.BB921444.Up2Date
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\refint\HRManagement.dll
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\HRManagement.pdb
+C:\Users\user\OneDrive\Documents\OOP Assignment\OOP_Algebro\HRManagement\obj\Debug\net8.0\ref\HRManagement.dll
