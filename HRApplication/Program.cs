@@ -109,6 +109,12 @@ namespace HRApplication
 
             var task2 = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
             task2.Wait(); //Blocks until task is done
+            var task3 = Task.Run(async () => await firestoremanager.SaveEmployee(emp2)); //test emp1
+            task3.Wait(); //Blocks until task is done
+            var task4 = Task.Run(async () => await firestoremanager.SaveEmployee(emp3)); //test emp1
+            task4.Wait(); //Blocks until task is done
+            var task5 = Task.Run(async () => await firestoremanager.ReadAllEmployees());
+            task5.Wait();
         }
     }
 }
