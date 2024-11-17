@@ -107,7 +107,9 @@ namespace HRApplication
             FirestoreManager firestoremanager = new FirestoreManager();
             firestoremanager.initFirestore();
 
-            
+            var task2 = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
+            task2.Wait(); //Blocks until task is done
+
             var task5 = Task.Run(async () => await firestoremanager.RemoveEmployee("1002"));
             task5.Wait();
             var task6 = Task.Run(async () => await firestoremanager.ReadAllEmployees());

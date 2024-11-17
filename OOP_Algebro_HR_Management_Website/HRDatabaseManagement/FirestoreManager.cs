@@ -32,6 +32,7 @@ namespace HRDatabaseManagement
             CollectionReference collectionRef = db.Collection("employee");
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("Retrieving all employees...");
+            Console.WriteLine("-------------------------------------------------------");
 
             // Fetch all documents in the collection
             QuerySnapshot snapshot = await collectionRef.GetSnapshotAsync();
@@ -57,6 +58,7 @@ namespace HRDatabaseManagement
                     readEmployees.Add(readEmployee);
                     Console.WriteLine("Employee Name: " + readEmployee.EmpName);
                     Console.WriteLine("Employee ID: " + readEmployee.EmpID);
+                    Console.WriteLine("-------------------------------------------------------");
                 }
             }
             Console.WriteLine("All employees retrieved successfully. Total count: " + readEmployees.Count);

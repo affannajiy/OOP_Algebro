@@ -34,3 +34,21 @@ C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\OOP_
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\refint\HRDatabaseManagement.dll
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.pdb
 C:\Users\alexa\OneDrive - Universiti Teknologi PETRONAS\Desktop\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\ref\HRDatabaseManagement.dll
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\HRDatabaseManagement.deps.json
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\HRDatabaseManagement.dll
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\HRDatabaseManagement.pdb
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\EmpAppManagement.dll
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\HRManagement.dll
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\EmpAppManagement.pdb
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\bin\Debug\net8.0\HRManagement.pdb
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.sourcelink.json
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDataba.8C227F15.Up2Date
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.dll
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\refint\HRDatabaseManagement.dll
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\HRDatabaseManagement.pdb
+C:\Users\user\Documents\GitHub\OOP_Algebro\OOP_Algebro_HR_Management_Website\HRDatabaseManagement\obj\Debug\net8.0\ref\HRDatabaseManagement.dll
