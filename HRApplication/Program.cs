@@ -1,6 +1,10 @@
 ﻿using EmpAppManagement; //EmployeeApplicantManagement: Employee & Applicant Features
 using HRManagement; //HRManagement: HR Features & Functionalities
 using HRDatabaseManagement;
+using FirebaseAdmin.Messaging;
+using static Google.Rpc.Context.AttributeContext.Types;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Threading;
 
 namespace HRApplication
 {
@@ -107,13 +111,31 @@ namespace HRApplication
             FirestoreManager firestoremanager = new FirestoreManager();
             firestoremanager.initFirestore();
 
+            //Employee
+            
             var task2 = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
+            task2.Wait();
+            var task3 = Task.Run(async () => await firestoremanager.SaveEmployee(emp2)); //test emp2
+            task2.Wait();
+            var task4 = Task.Run(async () => await firestoremanager.SaveEmployee(emp3)); //test emp3
             task2.Wait(); //Blocks until task is done
 
             var task5 = Task.Run(async () => await firestoremanager.RemoveEmployee("1002"));
             task5.Wait();
             var task6 = Task.Run(async () => await firestoremanager.ReadAllEmployees());
             task6.Wait();
+
+            //Applicant
+            var task7 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant1));
+            task7.Wait();
+            var task8 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant2));
+            task8.Wait();
+            var task9 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant3));
+            task9.Wait();
+
+            //var task10 = Task.Run(async () => await firestoremanager.ReadAllApplicants());
+            //task10.Wait();
+
         }
     }
 }

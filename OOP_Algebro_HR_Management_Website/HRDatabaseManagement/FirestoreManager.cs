@@ -16,7 +16,11 @@ namespace HRDatabaseManagement
         private FirestoreDb db;
 
         //Constructor
-        public FirestoreManager() { }
+        public FirestoreManager()
+        {
+            employeeList = new EmployeeList();
+            applicantList = new ApplicantList();
+        }
 
         //initFirestore: Connect to Cloud Firestore
         public void initFirestore()
@@ -124,7 +128,7 @@ namespace HRDatabaseManagement
         {
             List<Applicant> readApplicants = new List<Applicant>();
 
-            //Collection Reference - Points to the "employee" collection
+            //Collection Reference - Points to the "applicant" collection
             CollectionReference collectionRef = db.Collection("applicant");
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("Retrieving all applicants...");
@@ -138,7 +142,7 @@ namespace HRDatabaseManagement
             {
                 if (doc.Exists)
                 {
-                    //Safely retrieve each field and handle missing or null values
+                    // Safely retrieve each field and handle missing or null values
                     string applicantName = doc.ContainsField("ApplicantName") ? doc.GetValue<string>("ApplicantName") : "Unknown";
                     string applicantContactNum = doc.ContainsField("ApplicantContactNum") ? doc.GetValue<string>("ApplicantContactNum") : "N/A";
 
@@ -156,14 +160,12 @@ namespace HRDatabaseManagement
 
                     // Log the Applicant details
                     Console.WriteLine("Applicant Name: " + readApplicant.AppName);
-                    Console.WriteLine("Applicant ID: " + readApplicant.AppTempID);
                     Console.WriteLine("Applicant Contact Number: " + readApplicant.AppContactNum);
                     Console.WriteLine("Role: " + readApplicant.AppRole);
                     Console.WriteLine("Interview Date: " + (interviewDate != DateTime.MinValue ? interviewDate.ToString("yyyy-MM-dd") : "N/A"));
                     Console.WriteLine("-------------------------------------------------------");
                 }
             }
-
             Console.WriteLine("All applicants retrieved successfully. Total count: " + readApplicants.Count);
             return readApplicants;
         }
@@ -177,12 +179,12 @@ namespace HRDatabaseManagement
             DocumentReference docRef = collectionRef.Document((DateTime.Now.Ticks.ToString()));
             //Dictionary = Data Structure (To store and ref to Firestore) [KEY, VALUE]
             Dictionary<string, object> values = new Dictionary<string, object>
-            {    //key              //value
+            {    //key                    //value
                  { "ApplicantID",         applicant.AppTempID.ToString() },
                  { "ApplicantName",       applicant.AppName },
                  { "ApplicantContactNum", applicant.AppContactNum },
                  { "Role",                applicant.AppRole },
-                 { "InterviewDate",       applicant.IvDate }
+                 { "InterviewDate",       applicant.IvDate.ToString() }
             };
 
             Console.WriteLine("Saving applicant with ID: " + docRef.Id);
