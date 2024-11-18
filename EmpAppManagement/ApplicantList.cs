@@ -23,14 +23,14 @@
             applicants = new List<Applicant>(num);
         }
 
-        //Add
+        //AddApplicant
         public void AddApplicant(Applicant applicant)
         {
             applicants.Add(applicant);
             Console.WriteLine($"Applicant {applicant.AppName} added successfully.");
         }
 
-        //Remove Applicant (Name)
+        //RemoveApplicant
         public void RemoveApplicant(Applicant applicant)
         {
             Applicant applicantToRemove = applicants.Find(a => a.AppName.Equals(applicant.AppName, StringComparison.OrdinalIgnoreCase));
@@ -45,7 +45,7 @@
             }
         }
 
-        //Display
+        //DisplayAllApplicants
         public void DisplayAllApplicants()
         {
             if (applicants.Count == 0)

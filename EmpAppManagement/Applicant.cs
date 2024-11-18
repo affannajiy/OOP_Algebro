@@ -6,14 +6,16 @@
         public string AppContactNum { get; set; }
         public string AppRole { get; set; }
         public DateTime IvDate { get; set; }
+        public int AppTempID { get; set; }
 
         // Constructors
-        public Applicant(string appName, string appContactNum, string appRole, DateTime ivDate)
+        public Applicant(string appName, string appContactNum, string appRole, DateTime ivDate, int appTempID)
         {
             AppName = appName;
             AppContactNum = appContactNum;
             AppRole = appRole;
             IvDate = ivDate;
+            AppTempID = appTempID;
         }
 
         // Display
@@ -23,6 +25,7 @@
             Console.WriteLine($"Contact Number: {AppContactNum}");
             Console.WriteLine($"Role: {AppRole}");
             Console.WriteLine($"Interview Date: {IvDate.ToString("dd/MM/yyyy HH:mm")}");
+            Console.WriteLine($"Temporary ID: {AppTempID}");
             Console.WriteLine("-------------------------------");
         }
     }

@@ -4,6 +4,19 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\hrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\oop_algebro_hr_management_website\\hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|solutionrelative:hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4B304A-D38C-4C4F-A890-55F30A7E5751}|..\\EmpAppManagement\\EmpAppManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\empappmanagement\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4B304A-D38C-4C4F-A890-55F30A7E5751}|..\\EmpAppManagement\\EmpAppManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\empappmanagement\\applicantlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D4B304A-D38C-4C4F-A890-55F30A7E5751}|..\\EmpAppManagement\\EmpAppManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\empappmanagement\\employeelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,13 +42,62 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Applicant.cs",
+              "RelativeDocumentMoniker": "..\\EmpAppManagement\\Applicant.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Applicant.cs",
+              "RelativeToolTip": "..\\EmpAppManagement\\Applicant.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:42:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicantList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\ApplicantList.cs",
+              "RelativeDocumentMoniker": "..\\EmpAppManagement\\ApplicantList.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\ApplicantList.cs",
+              "RelativeToolTip": "..\\EmpAppManagement\\ApplicantList.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:35:24.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\EmployeeList.cs",
+              "RelativeDocumentMoniker": "..\\EmpAppManagement\\EmployeeList.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\EmployeeList.cs",
+              "RelativeToolTip": "..\\EmpAppManagement\\EmployeeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:35:29.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirestoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
+              "RelativeDocumentMoniker": "HRDatabaseManagement\\FirestoreManager.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
+              "RelativeToolTip": "HRDatabaseManagement\\FirestoreManager.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAtwLsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T07:31:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
               "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
               "RelativeToolTip": "..\\HRApplication\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:17:54.689Z",
               "EditorCaption": ""

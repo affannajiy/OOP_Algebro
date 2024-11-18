@@ -4,20 +4,20 @@
     {
         public List<Employee> Employees { get; set; }
 
-        // Constructor to initialize the employee list
+        //Constructor to initialize the employee list
         public EmployeeList()
         {
             Employees = new List<Employee>();
         }
 
-        // Method to add an employee to the list
+        //AddEmployee
         public void AddEmployee(Employee employee)
         {
             Employees.Add(employee);
             Console.WriteLine($"Employee {employee.EmpName} added successfully.");
         }
 
-        // Method to remove an employee by employee ID
+        //RemoveEmployee
         public void RemoveEmployee(int empID)
         {
             Employee employee = Employees.Find(e => e.EmpID == empID);
@@ -32,7 +32,7 @@
             }
         }
 
-        // Method to display all employees in the list
+        //DisplayAllEmployees
         public void DisplayAllEmployees()
         {
             Console.WriteLine("Employee List:");
@@ -44,7 +44,7 @@
             Console.WriteLine();
         }
 
-        // Method to find and display employee details by ID
+        //FindEmployeeByID
         public void FindEmployeeByID(int empID)
         {
             Employee employee = Employees.Find(e => e.EmpID == empID);
