@@ -137,33 +137,50 @@ namespace HRDatabaseManagement
             //Fetch all documents in the collection
             QuerySnapshot snapshot = await collectionRef.GetSnapshotAsync();
 
-            //Process each document in the snapshot
             foreach (DocumentSnapshot doc in snapshot.Documents)
             {
                 if (doc.Exists)
                 {
-                    // Safely retrieve each field and handle missing or null values
+                    //Safely retrieve each field and handle missing or null values
                     string applicantName = doc.ContainsField("ApplicantName") ? doc.GetValue<string>("ApplicantName") : "Unknown";
                     string applicantContactNum = doc.ContainsField("ApplicantContactNum") ? doc.GetValue<string>("ApplicantContactNum") : "N/A";
 
-                    // Convert ApplicantID from string to int (if applicable)
+                    //Convert ApplicantID from string to int (if applicable)
                     int applicantTempID = doc.ContainsField("ApplicantID") && int.TryParse(doc.GetValue<string>("ApplicantID"), out int tempID) ? tempID : 0;
 
                     string role = doc.ContainsField("Role") ? doc.GetValue<string>("Role") : "Unknown";
 
-                    // Handle InterviewDate as a DateTime, default to DateTime.MinValue if missing
-                    DateTime interviewDate = doc.ContainsField("InterviewDate") ? doc.GetValue<DateTime>("InterviewDate") : DateTime.MinValue;
+                    //Handle InterviewDate (stored as string in Firestore)
+                    string interviewDateStr = doc.ContainsField("InterviewDate") ? doc.GetValue<string>("InterviewDate") : "N/A";
+                    DateTime interviewDate = DateTime.MinValue;
 
-                    // Create and add the Applicant object to the list
+                    //Parse InterviewDate if it exists
+                    if (!string.IsNullOrEmpty(interviewDateStr)) //Check if the string is not null or empty
+                    {
+                        if (DateTime.TryParse(interviewDateStr, out DateTime parsedDate))
+                        {
+                            interviewDate = parsedDate; //Parsed successfully
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Invalid date format for InterviewDate: {interviewDateStr}");
+                        }
+                    }
+                    /* DateTime Watergate Issue!
+                     * out: data type, variable to be passed by reference, where the result will be stored
+                     * parsedDate: The parsed DateTime value
+                     * changed interviewDate to parsedDate for update
+                     */
+
+                    //Create and add the Applicant object to the list
                     Applicant readApplicant = new Applicant(applicantName, applicantContactNum, role, interviewDate, applicantTempID);
                     readApplicants.Add(readApplicant);
 
-                    // Log the Applicant details
+                    //Log the Applicant details
                     Console.WriteLine("Applicant Name: " + readApplicant.AppName);
                     Console.WriteLine("Applicant Contact Number: " + readApplicant.AppContactNum);
                     Console.WriteLine("Role: " + readApplicant.AppRole);
-                    Console.WriteLine("Interview Date: " + (interviewDate != DateTime.MinValue ? interviewDate.ToString("yyyy-MM-dd") : "N/A"));
-                    Console.WriteLine("-------------------------------------------------------");
+                    Console.WriteLine("Interview Date: " + (interviewDate != DateTime.MinValue ? interviewDate.ToString("yyyy-MM-dd HH:mm:ss") : "N/A"));
                 }
             }
             Console.WriteLine("All applicants retrieved successfully. Total count: " + readApplicants.Count);

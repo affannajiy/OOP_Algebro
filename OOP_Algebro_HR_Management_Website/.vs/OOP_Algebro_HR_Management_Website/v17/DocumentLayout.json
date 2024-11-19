@@ -10,6 +10,9 @@
       "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\hrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7D4B304A-D38C-4C4F-A890-55F30A7E5751}|..\\EmpAppManagement\\EmpAppManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\empappmanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D4B304A-D38C-4C4F-A890-55F30A7E5751}|..\\EmpAppManagement\\EmpAppManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\empappmanagement\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,9 +45,35 @@
               "RelativeDocumentMoniker": "HRDatabaseManagement\\FirestoreManager.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
               "RelativeToolTip": "HRDatabaseManagement\\FirestoreManager.cs",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAwwJ0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwK4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:31:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\EmpAppManagement\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Employee.cs",
+              "RelativeToolTip": "..\\EmpAppManagement\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:55:39.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Applicant.cs",
+              "RelativeDocumentMoniker": "..\\EmpAppManagement\\Applicant.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Applicant.cs",
+              "RelativeToolTip": "..\\EmpAppManagement\\Applicant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:13:22.243Z",
               "EditorCaption": ""
             },
             {
@@ -55,22 +84,9 @@
               "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
               "RelativeToolTip": "..\\HRApplication\\Program.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAIAxwIEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:17:54.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Applicant.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Applicant.cs",
-              "RelativeDocumentMoniker": "..\\EmpAppManagement\\Applicant.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\EmpAppManagement\\Applicant.cs",
-              "RelativeToolTip": "..\\EmpAppManagement\\Applicant.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T10:13:22.243Z",
               "EditorCaption": ""
             }
           ]

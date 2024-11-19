@@ -24,7 +24,7 @@
             Console.WriteLine($"Applicant Name: {AppName}");
             Console.WriteLine($"Contact Number: {AppContactNum}");
             Console.WriteLine($"Role: {AppRole}");
-            Console.WriteLine($"Interview Date: {IvDate.ToString("dd/MM/yyyy HH:mm")}");
+            Console.WriteLine($"Interview Date: {IvDate}");
             Console.WriteLine($"Temporary ID: {AppTempID}");
             Console.WriteLine("-------------------------------");
         }

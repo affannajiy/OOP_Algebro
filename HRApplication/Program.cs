@@ -1,4 +1,5 @@
-﻿using EmpAppManagement; //EmployeeApplicantManagement: Employee & Applicant Features
+﻿//Github Link: https://github.com/affannajiy/OOP_Algebro
+using EmpAppManagement; //EmployeeApplicantManagement: Employee & Applicant Features
 using HRManagement; //HRManagement: HR Features & Functionalities
 using HRDatabaseManagement;
 using FirebaseAdmin.Messaging;
@@ -14,9 +15,9 @@ namespace HRApplication
         {
             //Example for Applicant Info
             ApplicantList applicantList = new ApplicantList();
-            Applicant applicant1 = new Applicant("Adam Marwan", "0123456789", "Software Engineer", new DateTime(2024, 1, 31, 14, 30, 0), 800);
-            Applicant applicant2 = new Applicant("Jamal Abdillah", "0136969607", "Cleaner", new DateTime(2024, 2, 20, 10, 30, 0), 801);
-            Applicant applicant3 = new Applicant("Siti Nabila", "0176678956", "Accountant", new DateTime(2024, 2, 21, 11, 35, 0), 801);
+            Applicant applicant1 = new Applicant("Adam Marwan", "0123456789", "Software Engineer", new DateTime(2024, 5, 28, 8, 0, 0), 800);
+            Applicant applicant2 = new Applicant("Jamal Abdillah", "0136969607", "Cleaner", new DateTime(2024, 5, 29, 8, 0, 0), 801);
+            Applicant applicant3 = new Applicant("Siti Nabila", "0176678956", "Accountant", new DateTime(2024, 5, 30, 8, 0, 0), 802);
             applicantList.AddApplicant(applicant1);
             applicantList.AddApplicant(applicant2);
             applicantList.AddApplicant(applicant3);
@@ -112,7 +113,6 @@ namespace HRApplication
             firestoremanager.initFirestore();
 
             //Employee
-            
             var task2 = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
             task2.Wait();
             var task3 = Task.Run(async () => await firestoremanager.SaveEmployee(emp2)); //test emp2
@@ -120,6 +120,7 @@ namespace HRApplication
             var task4 = Task.Run(async () => await firestoremanager.SaveEmployee(emp3)); //test emp3
             task2.Wait(); //Blocks until task is done
 
+            //Employee - Methods
             var task5 = Task.Run(async () => await firestoremanager.RemoveEmployee("1002"));
             task5.Wait();
             var task6 = Task.Run(async () => await firestoremanager.ReadAllEmployees());
@@ -133,9 +134,9 @@ namespace HRApplication
             var task9 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant3));
             task9.Wait();
 
-            //var task10 = Task.Run(async () => await firestoremanager.ReadAllApplicants());
-            //task10.Wait();
-
+            //Applicant - Methods
+            var task10 = Task.Run(async () => await firestoremanager.ReadAllApplicants());
+            task10.Wait();
         }
     }
 }
