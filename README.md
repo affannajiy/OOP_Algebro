@@ -1,7 +1,7 @@
 
-# HR Management System
+# HR Application
 
-HR Management System is a comprehensive application designed to streamline human resource operations for organizations. The system manages various HR functionalities, including employee and applicant tracking, performance evaluation, leave requests, feedback management, and work projects. It leverages a Firestore database to store and retrieve data efficiently.
+HR Application is a comprehensive application designed to streamline human resource operations for organizations. The system manages various HR functionalities, including employee and applicant tracking, performance evaluation, leave requests, feedback management, and work projects. It leverages a Firestore database to store and retrieve data efficiently.
 
 
 ## Authors
@@ -12,6 +12,7 @@ HR Management System is a comprehensive application designed to streamline human
 - [@imanhazim](https://github.com/ImanHazimInformationSystems)
 - [@mahendra](https://github.com/mahendratanjung)
 - [@syedhafidz](https://github.com/syedmuhdhafidz)
+
 ## Features
 
 ### 1. Employee Management
@@ -45,11 +46,10 @@ HR Management System is a comprehensive application designed to streamline human
 
 ## Technologies Used
 
-**Programming Language:** C#
-**Framework:** .NET 8.0
-**Database:** Google Firestore
-**Libraries:**
-- Google.Cloud.Firestore
-- FirebaseAdmin
-**Version Control:** Git and GitHub
-
+- **Programming Language:** C#
+- **Framework:** .NET 8.0
+- **Database:** Google Firestore
+- **Libraries:**
+  - Google.Cloud.Firestore
+  - FirebaseAdmin
+- **Version Control:** Git and GitHub
