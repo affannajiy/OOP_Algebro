@@ -136,6 +136,7 @@ namespace HRApplication
 
             //Applicant - Methods
             var task4a = Task.Run(async () => await firestoremanager.RemoveApplicant("801"));
+            task4a.Wait();
             var task5a = Task.Run(async () => await firestoremanager.ReadAllApplicants());
             task5a.Wait();
         }

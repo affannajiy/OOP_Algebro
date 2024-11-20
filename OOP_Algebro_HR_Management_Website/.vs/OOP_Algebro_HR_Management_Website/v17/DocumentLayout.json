@@ -1,12 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
+  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\hrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555FFAF2-89C8-4D2D-BEA9-F7F2AC7C750B}|..\\HRApplication\\HRApplication.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\oop_algebro_hr_management_website\\hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\oop_algebro_hr_management_website\\hrdatabasemanagement\\hrdatabasemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|solutionrelative:hrdatabasemanagement\\hrdatabasemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\oop_algebro_hr_management_website\\hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|solutionrelative:hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,55 +21,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HRDatabaseManagement",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\HRDatabaseManagement.csproj",
+              "RelativeDocumentMoniker": "HRDatabaseManagement\\HRDatabaseManagement.csproj",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\HRDatabaseManagement.csproj",
+              "RelativeToolTip": "HRDatabaseManagement\\HRDatabaseManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T10:33:42.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRApplication\\Program.cs",
               "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRApplication\\Program.cs",
               "RelativeToolTip": "..\\HRApplication\\Program.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAkwGcAAAArAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:01:12.329Z",
+              "WhenOpened": "2024-11-20T09:56:03.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FirestoreManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
               "RelativeDocumentMoniker": "HRDatabaseManagement\\FirestoreManager.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
               "RelativeToolTip": "HRDatabaseManagement\\FirestoreManager.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAiwH0AAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwD4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:31:44.309Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
