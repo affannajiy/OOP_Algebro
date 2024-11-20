@@ -17,7 +17,7 @@ namespace HRApplication
             ApplicantList applicantList = new ApplicantList();
             Applicant applicant1 = new Applicant("Adam Marwan", "0123456789", "Software Engineer", new DateTime(2024, 5, 28, 8, 0, 0), 800);
             Applicant applicant2 = new Applicant("Jamal Abdillah", "0136969607", "Cleaner", new DateTime(2024, 5, 29, 8, 0, 0), 801);
-            Applicant applicant3 = new Applicant("Siti Nabila", "0176678956", "Accountant", new DateTime(2024, 5, 30, 8, 0, 0), 802);
+            Applicant applicant3 = new Applicant("Siti Nurhaliza", "0176678956", "Accountant", new DateTime(2024, 5, 30, 8, 0, 0), 802);
             applicantList.AddApplicant(applicant1);
             applicantList.AddApplicant(applicant2);
             applicantList.AddApplicant(applicant3);
@@ -27,9 +27,9 @@ namespace HRApplication
 
             //Example for Employee Info
             EmployeeList employeeList = new EmployeeList();
-            Employee emp1 = new Employee("John Doe", 1001, "Manager", "0123556789", "Active");
-            Employee emp2 = new Employee("Jane Smith", 1002, "Developer", "0198764321", "Active");
-            Employee emp3 = new Employee("Emily Davis", 1003, "Designer", "0112233445", "On Leave");
+            Employee emp1 = new Employee("M. Nasir", 1001, "Manager", "0123556789", "Active");
+            Employee emp2 = new Employee("Sheila Majid", 1002, "Developer", "0198764321", "Active");
+            Employee emp3 = new Employee("Francisca Pete", 1003, "Designer", "0112233445", "On Leave");
             employeeList.AddEmployee(emp1);
             employeeList.AddEmployee(emp2);
             employeeList.AddEmployee(emp3);
@@ -113,30 +113,31 @@ namespace HRApplication
             firestoremanager.initFirestore();
 
             //Employee
-            var task2 = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
-            task2.Wait();
-            var task3 = Task.Run(async () => await firestoremanager.SaveEmployee(emp2)); //test emp2
-            task2.Wait();
-            var task4 = Task.Run(async () => await firestoremanager.SaveEmployee(emp3)); //test emp3
-            task2.Wait(); //Blocks until task is done
+            var task1e = Task.Run(async () => await firestoremanager.SaveEmployee(emp1)); //test emp1
+            task1e.Wait();
+            var task2e = Task.Run(async () => await firestoremanager.SaveEmployee(emp2)); //test emp2
+            task2e.Wait();
+            var task3e = Task.Run(async () => await firestoremanager.SaveEmployee(emp3)); //test emp3
+            task3e.Wait(); //Blocks until task is done
 
             //Employee - Methods
-            var task5 = Task.Run(async () => await firestoremanager.RemoveEmployee("1002"));
-            task5.Wait();
-            var task6 = Task.Run(async () => await firestoremanager.ReadAllEmployees());
-            task6.Wait();
+            var task4e = Task.Run(async () => await firestoremanager.RemoveEmployee("1002"));
+            task4e.Wait();
+            var task5e = Task.Run(async () => await firestoremanager.ReadAllEmployees());
+            task5e.Wait();
 
             //Applicant
-            var task7 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant1));
-            task7.Wait();
-            var task8 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant2));
-            task8.Wait();
-            var task9 = Task.Run(async () => await firestoremanager.SaveApplicant(applicant3));
-            task9.Wait();
+            var task1a = Task.Run(async () => await firestoremanager.SaveApplicant(applicant1));
+            task1a.Wait();
+            var task2a = Task.Run(async () => await firestoremanager.SaveApplicant(applicant2));
+            task2a.Wait();
+            var task3a = Task.Run(async () => await firestoremanager.SaveApplicant(applicant3));
+            task3a.Wait();
 
             //Applicant - Methods
-            var task10 = Task.Run(async () => await firestoremanager.ReadAllApplicants());
-            task10.Wait();
+            var task4a = Task.Run(async () => await firestoremanager.RemoveApplicant("801"));
+            var task5a = Task.Run(async () => await firestoremanager.ReadAllApplicants());
+            task5a.Wait();
         }
     }
 }
