@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,28 +33,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
+              "RelativeToolTip": "..\\HRApplication\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:01:12.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FirestoreManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
               "RelativeDocumentMoniker": "HRDatabaseManagement\\FirestoreManager.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
               "RelativeToolTip": "HRDatabaseManagement\\FirestoreManager.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAkwDwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwH0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T07:31:44.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs",
-              "RelativeDocumentMoniker": "..\\HRApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\HRApplication\\Program.cs*",
-              "RelativeToolTip": "..\\HRApplication\\Program.cs*",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAowIsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T07:17:54.689Z",
               "EditorCaption": ""
             }
           ]

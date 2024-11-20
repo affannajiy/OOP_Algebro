@@ -29,7 +29,7 @@ namespace HRApplication
             EmployeeList employeeList = new EmployeeList();
             Employee emp1 = new Employee("M. Nasir", 1001, "Manager", "0123556789", "Active");
             Employee emp2 = new Employee("Sheila Majid", 1002, "Developer", "0198764321", "Active");
-            Employee emp3 = new Employee("Francisca Pete", 1003, "Designer", "0112233445", "On Leave");
+            Employee emp3 = new Employee("Francisca Peter", 1003, "Designer", "0112233445", "On Leave");
             employeeList.AddEmployee(emp1);
             employeeList.AddEmployee(emp2);
             employeeList.AddEmployee(emp3);
