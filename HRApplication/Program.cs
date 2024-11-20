@@ -1,4 +1,5 @@
 ﻿//Github Link: https://github.com/affannajiy/OOP_Algebro
+//Contributor: Adham
 using EmpAppManagement; //EmployeeApplicantManagement: Employee & Applicant Features
 using HRManagement; //HRManagement: HR Features & Functionalities
 using HRDatabaseManagement;

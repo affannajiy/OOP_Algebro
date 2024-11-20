@@ -1,4 +1,5 @@
-﻿namespace HRManagement
+﻿//Contributor: Adham
+namespace HRManagement
 {
     public class LeaveRequestList
     {

@@ -1,4 +1,5 @@
-﻿namespace EmpAppManagement
+﻿//Contributor: Adham
+namespace EmpAppManagement
 {
     public class Employee
     {
