@@ -1,4 +1,5 @@
-﻿namespace EmpAppManagement
+﻿//Contributor: Affan
+namespace EmpAppManagement
 {
     public class ApplicantList
     {
