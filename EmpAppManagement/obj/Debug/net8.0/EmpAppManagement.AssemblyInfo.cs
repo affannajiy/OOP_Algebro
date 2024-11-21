@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmpAppManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b96b289a38b772602e64473af502af4445133c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+854d34d0694e37007608478a47c2d75da72b72fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmpAppManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmpAppManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,45 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\ethics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\worklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\timetrackinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\timetracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\leaverequestlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\kpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\feedbacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\benefitlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7531ED3-A99A-4C53-A539-0883AB753CA1}|..\\HRManagement\\HRManagement.csproj|c:\\users\\alexa\\onedrive - universiti teknologi petronas\\desktop\\oop_algebro\\hrmanagement\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|c:\\users\\user\\onedrive\\documents\\oop assignment\\oop_algebro\\oop_algebro_hr_management_website\\hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409D8889-6FBE-4C1A-8CF2-A55E9861E931}|HRDatabaseManagement\\HRDatabaseManagement.csproj|solutionrelative:hrdatabasemanagement\\firestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,176 +14,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WorkList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\WorkList.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\WorkList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\WorkList.cs",
-              "RelativeToolTip": "..\\HRManagement\\WorkList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:24:02.683Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Work.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Work.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\Work.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Work.cs",
-              "RelativeToolTip": "..\\HRManagement\\Work.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:57.516Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TimeTrackingList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\TimeTrackingList.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\TimeTrackingList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\TimeTrackingList.cs",
-              "RelativeToolTip": "..\\HRManagement\\TimeTrackingList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:53.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TimeTracking.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\TimeTracking.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\TimeTracking.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\TimeTracking.cs",
-              "RelativeToolTip": "..\\HRManagement\\TimeTracking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:50.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Performance.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Performance.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\Performance.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Performance.cs",
-              "RelativeToolTip": "..\\HRManagement\\Performance.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:46.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LeaveRequestList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\LeaveRequestList.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\LeaveRequestList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\LeaveRequestList.cs",
-              "RelativeToolTip": "..\\HRManagement\\LeaveRequestList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:41.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\LeaveRequest.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\LeaveRequest.cs",
-              "RelativeToolTip": "..\\HRManagement\\LeaveRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:36.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "KPI.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\KPI.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\KPI.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\KPI.cs",
-              "RelativeToolTip": "..\\HRManagement\\KPI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:23.297Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ethics.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Ethics.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\Ethics.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Ethics.cs",
-              "RelativeToolTip": "..\\HRManagement\\Ethics.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Title": "FirestoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
+              "RelativeDocumentMoniker": "HRDatabaseManagement\\FirestoreManager.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\OOP Assignment\\OOP_Algebro\\OOP_Algebro_HR_Management_Website\\HRDatabaseManagement\\FirestoreManager.cs",
+              "RelativeToolTip": "HRDatabaseManagement\\FirestoreManager.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAiwNIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:10.472Z",
+              "WhenOpened": "2024-11-21T03:00:57.302Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FeedbackList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\FeedbackList.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\FeedbackList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\FeedbackList.cs",
-              "RelativeToolTip": "..\\HRManagement\\FeedbackList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:19.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FeedBack.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\FeedBack.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\FeedBack.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\FeedBack.cs",
-              "RelativeToolTip": "..\\HRManagement\\FeedBack.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:14.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BenefitList.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\BenefitList.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\BenefitList.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\BenefitList.cs",
-              "RelativeToolTip": "..\\HRManagement\\BenefitList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:05.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Benefit.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Benefit.cs",
-              "RelativeDocumentMoniker": "..\\HRManagement\\Benefit.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive - Universiti Teknologi PETRONAS\\Desktop\\OOP_Algebro\\HRManagement\\Benefit.cs",
-              "RelativeToolTip": "..\\HRManagement\\Benefit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:01.024Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
